@@ -1,0 +1,38 @@
+<table class=class="form-table" border='1' cellpadding='0' cellspacing='0' width='81%' >   
+  <tr>
+    <td class='beta' width='4%'  align='center' class="ht">d�a</td>
+    <td class='beta' width='10%' align='center' class="ht">compra</td>
+    <td class='beta' width='10%' align='center' class="ht">venta</td>
+    <td class='beta' width='4%'  align='center' class="ht">d�a</td>
+    <td class='beta' width='10%' align='center' class="ht">compra</td>
+    <td class='beta' width='10%' align='center' class="ht">venta</td>
+    <td class='beta' width='4%'  align='center' class="ht">d�a</td>
+    <td class='beta' width='10%' align='center' class="ht">compra</td>
+    <td class='beta' width='10%' align='center' class="ht">venta</td>
+    <td class='beta' width='4%'  align='center' class="ht">d�a</td>
+    <td class='beta' width='10%' align='center' class="ht">compra</td>
+    <td class='beta' width='10%' align='center' class="ht">venta</td>
+  </tr>
+
+  <tr>
+    
+
+    
+	  			
+        
+        <td width='4%' align='center' class="h3">
+		  <strong>1</strong>
+        </td>
+          
+        <td width='8%' align='center' class="tne10">
+          3.522
+        </td>
+          
+        <td width='8%' align='center' class="tne10">
+		  3.529
+        </td>
+        
+      
+    
+    
+ </table>

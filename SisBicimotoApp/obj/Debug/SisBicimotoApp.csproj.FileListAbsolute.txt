@@ -1,0 +1,1471 @@
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\SistemaBici.exe.config
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\SistemaBici.exe
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\SistemaBici.pdb
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\BarcodeLib.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.API.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\DotNetZip.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\EntityFramework.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\FlashControlV71.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\FontAwesome.Sharp.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\itextsharp.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\Newtonsoft.Json.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\SQLite.CodeFirst.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Net.Http.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Web.Http.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Web.Http.WebHost.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\ThoughtWorks.QRCode.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Servicio.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Xml.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Comun.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.Practices.Unity.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Servicio.Soap.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\EnvDTE.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\VSLangProj.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\VsWebSite.Interop.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\EnvDTE80.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\AxShockwaveFlashObjects.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\ShockwaveFlashObjects.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Estructuras.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.Web.Services3.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\stdole.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.MSXML.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.API.pdb
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\DotNetZip.xml
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\EntityFramework.xml
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\itextsharp.xml
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\Newtonsoft.Json.xml
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Web.Http.xml
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Web.Http.WebHost.xml
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Servicio.pdb
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Xml.pdb
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Comun.pdb
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.Practices.Unity.xml
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Servicio.Soap.pdb
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Servicio.Soap.dll.config
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Estructuras.pdb
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\es\EntityFramework.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\es\System.Net.Http.Formatting.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\es\System.Web.Http.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\bin\Debug\es\System.Web.Http.WebHost.resources.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.csprojAssemblyReference.cache
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SistemaBici.exe.config
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FormLogo.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddComprobante.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddDocSerie.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddDocum.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddNotCredAlm.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddPedido.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddSerieUsuario.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddUnidad.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmComunicacionBaja.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmConsultaCorte.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmCorteCaja.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmCorteCalculado.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmEnviaXml.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmEnviaXmlBaja.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmEnviaXmlEnvio.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmEnviaXmlRes.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmGastosCaja.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmGeneraComunicacion.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmGeneraResumen.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmItemProve.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmKardex.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddCliente.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddClienteVentLin.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddCompra.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddDesCatalogo.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddEmpresa.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddIngreso.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddItemCompra.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddItemVenta.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddLinea.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddNotCredito.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddNotDebito.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddPersonal.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddProducto.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddProveedor.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddResponsable.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddRol.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddSalida.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddTransportista.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddUsuario.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddVendedor.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddVenta.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAlmacenStock.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmArticulos.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusArticulo.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusCliente.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusFamilia.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusPersonal.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusProveedor.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusProveedorCon.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusResponsable.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusVendedor.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmCancelarVenta.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmCliente.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmCompras.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmConsulGenArt.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmConsulta.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmEmpresa.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmEnviarSunat.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmIngresosAlm.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmLinea.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmListaDePedidos.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmLogin.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmMantCatalogo.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmMovCaja.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmNotaCredito.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmNotaDebito.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmParametro.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmPersonal.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmProveedor.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRegisDoc.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmReimprimirComp.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmResponsable.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmResumenBolCPE.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmResumenDetalleEnvio.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmResumenStock.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRevisaPedido.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRol.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRptKardexcs.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRptVentas.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmSaldoArticulos.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmSalidasAlm.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmSelItemNotCredito.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmSerieDoc.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmTransportista.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmUnidad.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmUsuario.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidaCompra.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidaIngreso.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidaNCredito.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidaNDebito.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidarPrecio.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidarVenta.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidaSalida.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidaVenta.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmVendedor.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmVentas.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmVentasEnLinea.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.MainForm.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmNotaCreditoSalAlm.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.NewMainForm.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.Properties.Resources.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.csproj.GenerateResource.cache
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.csproj.CoreCompileInputs.cache
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.csproj.CopyComplete
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SistemaBici.exe
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SistemaBici.pdb
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRepArticulo.resources
+C:\WS_NET\REBO_REPO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRptArticulos.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\SistemaBici.exe.config
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\SistemaBici.exe
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\SistemaBici.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\BarcodeLib.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.API.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\DotNetZip.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\EntityFramework.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\FlashControlV71.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\FontAwesome.Sharp.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\itextsharp.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\Newtonsoft.Json.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\SQLite.CodeFirst.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Net.Http.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Web.Http.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Web.Http.WebHost.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Servicio.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Xml.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Comun.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Servicio.Soap.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\EnvDTE.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\VSLangProj.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\VsWebSite.Interop.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\EnvDTE80.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\ShockwaveFlashObjects.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Estructuras.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.Web.Services3.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\stdole.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.MSXML.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.API.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\DotNetZip.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\EntityFramework.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\itextsharp.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\Newtonsoft.Json.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Web.Http.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Web.Http.WebHost.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Servicio.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Xml.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Comun.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Servicio.Soap.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Servicio.Soap.dll.config
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Estructuras.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\es\EntityFramework.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\es\System.Net.Http.Formatting.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\es\System.Web.Http.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\bin\Debug\es\System.Web.Http.WebHost.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.csprojAssemblyReference.cache
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SistemaBici.exe.config
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FormLogo.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddComprobante.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddDocSerie.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddDocum.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddNotCredAlm.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddPedido.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddSerieUsuario.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddUnidad.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmComunicacionBaja.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmConsultaCorte.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmCorteCaja.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmCorteCalculado.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmEnviaXml.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmEnviaXmlBaja.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmEnviaXmlEnvio.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmEnviaXmlRes.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmGastosCaja.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmGeneraComunicacion.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmGeneraResumen.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmItemProve.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmKardex.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddCliente.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddClienteVentLin.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddCompra.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddDesCatalogo.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddEmpresa.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddIngreso.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddItemCompra.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddItemVenta.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddLinea.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddNotCredito.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddNotDebito.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddPersonal.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddProducto.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddProveedor.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddResponsable.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddRol.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddSalida.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddTransportista.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddUsuario.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddVendedor.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddVenta.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAlmacenStock.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmArticulos.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusArticulo.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusCliente.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusFamilia.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusPersonal.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusProveedor.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusProveedorCon.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusResponsable.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusVendedor.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmCancelarVenta.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmCliente.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmCompras.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmConsulGenArt.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmConsulta.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmEmpresa.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmEnviarSunat.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmIngresosAlm.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmLinea.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmListaDePedidos.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmLogin.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmMantCatalogo.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmMovCaja.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmNotaCredito.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmNotaDebito.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmParametro.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmPersonal.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmProveedor.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRegisDoc.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmReimprimirComp.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRepArticulo.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmResponsable.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmResumenBolCPE.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmResumenDetalleEnvio.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmResumenStock.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRevisaPedido.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRol.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRptArticulos.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRptKardexcs.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRptVentas.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmSaldoArticulos.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmSalidasAlm.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmSelItemNotCredito.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmSerieDoc.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmTransportista.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmUnidad.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmUsuario.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidaCompra.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidaIngreso.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidaNCredito.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidaNDebito.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidarPrecio.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidarVenta.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidaSalida.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidaVenta.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmVendedor.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmVentas.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmVentasEnLinea.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.MainForm.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmNotaCreditoSalAlm.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.NewMainForm.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.Properties.Resources.resources
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.csproj.GenerateResource.cache
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.csproj.CoreCompileInputs.cache
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.csproj.CopyComplete
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SistemaBici.exe
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\SisBicimotoApp\obj\Debug\SistemaBici.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\SistemaBici.exe.config
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\SistemaBici.exe
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\SistemaBici.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\BarcodeLib.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.API.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\DotNetZip.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\EntityFramework.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\FlashControlV71.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\FontAwesome.Sharp.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\itextsharp.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\Newtonsoft.Json.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\SQLite.CodeFirst.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Net.Http.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Web.Http.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Web.Http.WebHost.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Servicio.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Xml.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Comun.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Servicio.Soap.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\EnvDTE.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\VSLangProj.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\VsWebSite.Interop.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\EnvDTE80.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\ShockwaveFlashObjects.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Estructuras.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.Web.Services3.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\stdole.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.MSXML.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.API.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\DotNetZip.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\EntityFramework.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\itextsharp.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\Newtonsoft.Json.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Web.Http.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Web.Http.WebHost.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Servicio.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Xml.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Comun.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Servicio.Soap.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Servicio.Soap.dll.config
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Estructuras.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\es\EntityFramework.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\es\System.Net.Http.Formatting.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\es\System.Web.Http.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\bin\Debug\es\System.Web.Http.WebHost.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.csprojAssemblyReference.cache
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SistemaBici.exe.config
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FormLogo.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddComprobante.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddDocSerie.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddDocum.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddNotCredAlm.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddPedido.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddSerieUsuario.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddUnidad.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmComunicacionBaja.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmConsultaCorte.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmCorteCaja.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmCorteCalculado.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmEnviaXml.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmEnviaXmlBaja.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmEnviaXmlEnvio.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmEnviaXmlRes.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmGastosCaja.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmGeneraComunicacion.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmGeneraResumen.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmItemProve.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmKardex.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddCliente.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddClienteVentLin.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddCompra.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddDesCatalogo.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddEmpresa.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddIngreso.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddItemCompra.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddItemVenta.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddLinea.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddNotCredito.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddNotDebito.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddPersonal.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddProducto.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddProveedor.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddResponsable.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddRol.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddSalida.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddTransportista.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddUsuario.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddVendedor.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddVenta.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAlmacenStock.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmArticulos.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusArticulo.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusCliente.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusFamilia.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusPersonal.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusProveedor.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusProveedorCon.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusResponsable.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusVendedor.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmCancelarVenta.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmCliente.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmCompras.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmConsulGenArt.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmConsulta.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmEmpresa.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmEnviarSunat.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmIngresosAlm.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmLinea.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmListaDePedidos.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmLogin.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmMantCatalogo.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmMovCaja.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmNotaCredito.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmNotaDebito.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmParametro.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmPersonal.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmProveedor.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRegisDoc.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmReimprimirComp.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRepArticulo.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmResponsable.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmResumenBolCPE.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmResumenDetalleEnvio.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmResumenStock.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRevisaPedido.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRol.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRptArticulos.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRptKardexcs.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRptVentas.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmSaldoArticulos.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmSalidasAlm.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmSelItemNotCredito.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmSerieDoc.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmTransportista.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmUnidad.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmUsuario.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidaCompra.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidaIngreso.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidaNCredito.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidaNDebito.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidarPrecio.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidarVenta.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidaSalida.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidaVenta.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmVendedor.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmVentas.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmVentasEnLinea.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.MainForm.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmNotaCreditoSalAlm.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.NewMainForm.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.Properties.Resources.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.csproj.GenerateResource.cache
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.csproj.CoreCompileInputs.cache
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.csproj.CopyComplete
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SistemaBici.exe
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\SisBicimotoApp\obj\Debug\SistemaBici.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\SistemaBici.exe.config
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\SistemaBici.exe
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\SistemaBici.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\BarcodeLib.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.API.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\DotNetZip.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\EntityFramework.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\FlashControlV71.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\FontAwesome.Sharp.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\itextsharp.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\Newtonsoft.Json.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\SQLite.CodeFirst.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Net.Http.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Web.Http.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Web.Http.WebHost.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Servicio.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Xml.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Comun.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Servicio.Soap.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\EnvDTE.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\VSLangProj.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\VsWebSite.Interop.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\EnvDTE80.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\ShockwaveFlashObjects.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Estructuras.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.Web.Services3.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\stdole.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.MSXML.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.API.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\DotNetZip.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\EntityFramework.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\itextsharp.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\Newtonsoft.Json.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Web.Http.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\System.Web.Http.WebHost.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Servicio.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Xml.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Comun.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Servicio.Soap.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Servicio.Soap.dll.config
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\Bicimoto.Estructuras.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\es\EntityFramework.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\es\System.Net.Http.Formatting.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\es\System.Web.Http.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\bin\Debug\es\System.Web.Http.WebHost.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.csprojAssemblyReference.cache
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SistemaBici.exe.config
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FormLogo.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddComprobante.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddDocSerie.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddDocum.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddNotCredAlm.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddPedido.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddSerieUsuario.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddUnidad.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmComunicacionBaja.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmConsultaCorte.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmCorteCaja.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmCorteCalculado.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmEnviaXml.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmEnviaXmlBaja.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmEnviaXmlEnvio.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmEnviaXmlRes.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmGastosCaja.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmGeneraComunicacion.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmGeneraResumen.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmItemProve.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmKardex.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddCliente.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddClienteVentLin.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddCompra.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddDesCatalogo.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddEmpresa.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddIngreso.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddItemCompra.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddItemVenta.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddLinea.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddNotCredito.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddNotDebito.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddPersonal.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddProducto.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddProveedor.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddResponsable.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddRol.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddSalida.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddTransportista.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddUsuario.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddVendedor.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddVenta.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAlmacenStock.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmArticulos.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusArticulo.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusCliente.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusFamilia.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusPersonal.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusProveedor.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusProveedorCon.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusResponsable.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusVendedor.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmCancelarVenta.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmCliente.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmCompras.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmConsulGenArt.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmConsulta.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmEmpresa.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmEnviarSunat.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmIngresosAlm.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmLinea.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmListaDePedidos.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmLogin.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmMantCatalogo.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmMovCaja.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmNotaCredito.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmNotaDebito.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmParametro.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmPersonal.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmProveedor.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRegisDoc.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmReimprimirComp.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRepArticulo.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmResponsable.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmResumenBolCPE.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmResumenDetalleEnvio.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmResumenStock.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRevisaPedido.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRol.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRptArticulos.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRptKardexcs.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRptVentas.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmSaldoArticulos.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmSalidasAlm.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmSelItemNotCredito.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmSerieDoc.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmTransportista.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmUnidad.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmUsuario.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidaCompra.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidaIngreso.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidaNCredito.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidaNDebito.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidarPrecio.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidarVenta.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidaSalida.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidaVenta.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmVendedor.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmVentas.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmVentasEnLinea.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.frmVistaCodBarra.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.MainForm.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmNotaCreditoSalAlm.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.NewMainForm.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.Properties.Resources.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.csproj.GenerateResource.cache
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.csproj.CoreCompileInputs.cache
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SisBicimotoApp.csproj.CopyComplete
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SistemaBici.exe
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\rebo-minimarket\SisBicimotoApp\obj\Debug\SistemaBici.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\SistemaBici.exe.config
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\SistemaBici.exe
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\SistemaBici.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\BarcodeLib.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\Bicimoto.API.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\DotNetZip.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\EntityFramework.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\FlashControlV71.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\FontAwesome.Sharp.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\itextsharp.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\Newtonsoft.Json.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\SQLite.CodeFirst.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\System.Net.Http.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\System.Web.Http.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\System.Web.Http.WebHost.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\Bicimoto.Servicio.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\Bicimoto.Xml.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\Bicimoto.Comun.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\Bicimoto.Servicio.Soap.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\EnvDTE.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\VSLangProj.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\VsWebSite.Interop.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\EnvDTE80.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\ShockwaveFlashObjects.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\Bicimoto.Estructuras.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\Microsoft.Web.Services3.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\stdole.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\Microsoft.MSXML.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\Bicimoto.API.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\DotNetZip.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\EntityFramework.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\itextsharp.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\Newtonsoft.Json.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\System.Web.Http.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\System.Web.Http.WebHost.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\Bicimoto.Servicio.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\Bicimoto.Xml.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\Bicimoto.Comun.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\Bicimoto.Servicio.Soap.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\Bicimoto.Servicio.Soap.dll.config
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\Bicimoto.Estructuras.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\es\EntityFramework.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\es\System.Net.Http.Formatting.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\es\System.Web.Http.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\bin\Debug\es\System.Web.Http.WebHost.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.csprojAssemblyReference.cache
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SistemaBici.exe.config
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FormLogo.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddComprobante.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddDocSerie.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddDocum.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddNotCredAlm.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddPedido.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddSerieUsuario.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddUnidad.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmComunicacionBaja.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmConsultaCorte.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmCorteCaja.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmCorteCalculado.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmEnviaXml.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmEnviaXmlBaja.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmEnviaXmlEnvio.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmEnviaXmlRes.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmGastosCaja.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmGeneraComunicacion.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmGeneraResumen.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmItemProve.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmKardex.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddCliente.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddClienteVentLin.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddCompra.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddDesCatalogo.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddEmpresa.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddIngreso.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddItemCompra.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddItemVenta.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddLinea.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddNotCredito.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddNotDebito.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddPersonal.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddProducto.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddProveedor.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddResponsable.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddRol.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddSalida.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddTransportista.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddUsuario.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddVendedor.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddVenta.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAlmacenStock.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmArticulos.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusArticulo.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusCliente.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusFamilia.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusPersonal.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusProveedor.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusProveedorCon.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusResponsable.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusVendedor.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmCancelarVenta.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmCliente.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmCompras.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmConsulGenArt.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmConsulta.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmEmpresa.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmEnviarSunat.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmIngresosAlm.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmLinea.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmListaDePedidos.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmLogin.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmMantCatalogo.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmMovCaja.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmNotaCredito.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmNotaDebito.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmParametro.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmPersonal.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmProveedor.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRegisDoc.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmReimprimirComp.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRepArticulo.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmResponsable.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmResumenBolCPE.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmResumenDetalleEnvio.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmResumenStock.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRevisaPedido.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRol.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRptArticulos.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRptKardexcs.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRptVentas.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmSaldoArticulos.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmSalidasAlm.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmSelItemNotCredito.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmSerieDoc.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmTransportista.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmUnidad.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmUsuario.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidaCompra.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidaIngreso.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidaNCredito.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidaNDebito.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidarPrecio.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidarVenta.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidaSalida.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidaVenta.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmVendedor.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmVentas.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmVentasEnLinea.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.frmVistaCodBarra.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.MainForm.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmNotaCreditoSalAlm.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.NewMainForm.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.Properties.Resources.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.csproj.GenerateResource.cache
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.csproj.CoreCompileInputs.cache
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.csproj.CopyComplete
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SistemaBici.exe
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SistemaBici.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddTurno.resources
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmTurnos.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\SistemaBici.exe.config
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\SistemaBici.exe
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\SistemaBici.pdb
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\BarcodeLib.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\Bicimoto.API.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\DotNetZip.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\EntityFramework.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\FlashControlV71.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\FontAwesome.Sharp.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\itextsharp.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\Newtonsoft.Json.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\SQLite.CodeFirst.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\System.Net.Http.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\System.Web.Http.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\System.Web.Http.WebHost.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\Bicimoto.Servicio.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\Bicimoto.Xml.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\Bicimoto.Comun.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\Bicimoto.Servicio.Soap.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\EnvDTE.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\VSLangProj.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\VsWebSite.Interop.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\EnvDTE80.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\ShockwaveFlashObjects.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\Bicimoto.Estructuras.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\Microsoft.Web.Services3.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\stdole.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\Microsoft.MSXML.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\Bicimoto.API.pdb
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\DotNetZip.xml
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\EntityFramework.xml
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\itextsharp.xml
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\Newtonsoft.Json.xml
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\System.Web.Http.xml
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\System.Web.Http.WebHost.xml
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\Bicimoto.Servicio.pdb
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\Bicimoto.Xml.pdb
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\Bicimoto.Comun.pdb
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\Bicimoto.Servicio.Soap.pdb
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\Bicimoto.Servicio.Soap.dll.config
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\Bicimoto.Estructuras.pdb
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\es\EntityFramework.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\es\System.Net.Http.Formatting.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\es\System.Web.Http.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\bin\Debug\es\System.Web.Http.WebHost.resources.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.csprojAssemblyReference.cache
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SistemaBici.exe.config
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FormLogo.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddComprobante.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddDocSerie.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddDocum.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddNotCredAlm.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddPedido.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddSerieUsuario.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddTurno.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddUnidad.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmComunicacionBaja.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmConsultaCorte.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmCorteCaja.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmCorteCalculado.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmEnviaXml.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmEnviaXmlBaja.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmEnviaXmlEnvio.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmEnviaXmlRes.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmGastosCaja.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmGeneraComunicacion.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmGeneraResumen.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmItemProve.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmKardex.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddCliente.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddClienteVentLin.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddCompra.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddDesCatalogo.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddEmpresa.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddIngreso.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddItemCompra.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddItemVenta.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddLinea.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddNotCredito.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddNotDebito.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddPersonal.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddProducto.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddProveedor.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddResponsable.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddRol.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddSalida.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddTransportista.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddUsuario.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddVendedor.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAddVenta.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmAlmacenStock.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmArticulos.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusArticulo.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusCliente.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusFamilia.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusPersonal.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusProveedor.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusProveedorCon.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusResponsable.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmBusVendedor.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmCancelarVenta.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmCliente.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmCompras.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmConsulGenArt.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmConsulta.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmEmpresa.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmEnviarSunat.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmIngresosAlm.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmLinea.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmListaDePedidos.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmLogin.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmMantCatalogo.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmMovCaja.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmNotaCredito.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmNotaDebito.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmParametro.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmPersonal.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmProveedor.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRegisDoc.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmReimprimirComp.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRepArticulo.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmResponsable.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmResumenBolCPE.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmResumenDetalleEnvio.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmResumenStock.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRevisaPedido.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRol.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRptArticulos.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRptKardexcs.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmRptVentas.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmSaldoArticulos.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmSalidasAlm.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmSelItemNotCredito.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmSerieDoc.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmTransportista.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmTurnos.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmUnidad.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmUsuario.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidaCompra.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidaIngreso.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidaNCredito.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidaNDebito.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidarPrecio.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidarVenta.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidaSalida.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmValidaVenta.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmVendedor.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmVentas.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmVentasEnLinea.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.frmVistaCodBarra.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.MainForm.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.FrmNotaCreditoSalAlm.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.NewMainForm.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.Properties.Resources.resources
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.csproj.GenerateResource.cache
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.csproj.CoreCompileInputs.cache
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SisBicimotoApp.csproj.CopyComplete
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SistemaBici.exe
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\SisBicimotoApp\obj\Debug\SistemaBici.pdb

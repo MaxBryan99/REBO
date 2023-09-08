@@ -1,0 +1,14 @@
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi.Tests\obj\Debug\Bicimoto.WebApi.Tests.csprojResolveAssemblyReference.cache
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi.Tests\obj\Debug\Bicimoto.WebApi.Tests.csproj.CoreCompileInputs.cache
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi.Tests\obj\Debug\Bicimoto.WebApi.Tests.csprojResolveAssemblyReference.cache
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi.Tests\obj\Debug\Bicimoto.WebApi.Tests.csproj.CoreCompileInputs.cache
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi.Tests\obj\Debug\Bicimoto.WebApi.Tests.csprojAssemblyReference.cache
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi.Tests\obj\Debug\Bicimoto.WebApi.Tests.csproj.CoreCompileInputs.cache
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi.Tests\obj\Debug\Bicimoto.WebApi.Tests.csprojAssemblyReference.cache
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi.Tests\obj\Debug\Bicimoto.WebApi.Tests.csproj.CoreCompileInputs.cache
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi.Tests\obj\Debug\Bicimoto.WebApi.Tests.csproj.AssemblyReference.cache
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi.Tests\obj\Debug\Bicimoto.WebApi.Tests.csproj.CoreCompileInputs.cache
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi.Tests\obj\Debug\Bicimoto.WebApi.Tests.csprojAssemblyReference.cache
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi.Tests\obj\Debug\Bicimoto.WebApi.Tests.csproj.CoreCompileInputs.cache
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi.Tests\obj\Debug\Bicimoto.WebApi.Tests.csprojAssemblyReference.cache
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi.Tests\obj\Debug\Bicimoto.WebApi.Tests.csproj.CoreCompileInputs.cache

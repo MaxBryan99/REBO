@@ -1,0 +1,319 @@
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Xml\bin\Debug\MySql.Data.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.xml
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csprojAssemblyReference.cache
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CoreCompileInputs.cache
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CopyComplete
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.pdb
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.dll
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.pdb
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.dll
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.dll
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.dll
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.dll
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Xml\bin\Debug\MySql.Data.dll
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.pdb
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.pdb
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.pdb
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.xml
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csprojAssemblyReference.cache
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CoreCompileInputs.cache
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CopyComplete
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.dll
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.pdb
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.pdb
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Xml\bin\Debug\MySql.Data.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.pdb
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.pdb
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.pdb
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.xml
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csprojAssemblyReference.cache
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CopyComplete
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.pdb
+D:\SISTEMA BICIMOTO 2.1 Visual 2019\bicimotopucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.dll
+D:\SISTEMA BICIMOTO 2.1 Visual 2019\bicimotopucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.pdb
+D:\SISTEMA BICIMOTO 2.1 Visual 2019\bicimotopucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.dll
+D:\SISTEMA BICIMOTO 2.1 Visual 2019\bicimotopucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.dll
+D:\SISTEMA BICIMOTO 2.1 Visual 2019\bicimotopucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.dll
+D:\SISTEMA BICIMOTO 2.1 Visual 2019\bicimotopucallpa\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.dll
+D:\SISTEMA BICIMOTO 2.1 Visual 2019\bicimotopucallpa\Bicimoto.Xml\bin\Debug\MySql.Data.dll
+D:\SISTEMA BICIMOTO 2.1 Visual 2019\bicimotopucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.pdb
+D:\SISTEMA BICIMOTO 2.1 Visual 2019\bicimotopucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.pdb
+D:\SISTEMA BICIMOTO 2.1 Visual 2019\bicimotopucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.pdb
+D:\SISTEMA BICIMOTO 2.1 Visual 2019\bicimotopucallpa\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.xml
+D:\SISTEMA BICIMOTO 2.1 Visual 2019\bicimotopucallpa\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csprojAssemblyReference.cache
+D:\SISTEMA BICIMOTO 2.1 Visual 2019\bicimotopucallpa\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CoreCompileInputs.cache
+D:\SISTEMA BICIMOTO 2.1 Visual 2019\bicimotopucallpa\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CopyComplete
+D:\SISTEMA BICIMOTO 2.1 Visual 2019\bicimotopucallpa\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.dll
+D:\SISTEMA BICIMOTO 2.1 Visual 2019\bicimotopucallpa\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.pdb
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.pdb
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\MySql.Data.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.pdb
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.pdb
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.pdb
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.xml
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csprojAssemblyReference.cache
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CopyComplete
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.pdb
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CoreCompileInputs.cache
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.pdb
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\MySql.Data.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.pdb
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.pdb
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.pdb
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.xml
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CoreCompileInputs.cache
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CopyComplete
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.pdb
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.AssemblyReference.cache
+D:\Oswaldo\Proyectos\Bicimoto Proy\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.dll
+D:\Oswaldo\Proyectos\Bicimoto Proy\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.pdb
+D:\Oswaldo\Proyectos\Bicimoto Proy\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.dll
+D:\Oswaldo\Proyectos\Bicimoto Proy\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.dll
+D:\Oswaldo\Proyectos\Bicimoto Proy\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.dll
+D:\Oswaldo\Proyectos\Bicimoto Proy\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.dll
+D:\Oswaldo\Proyectos\Bicimoto Proy\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\MySql.Data.dll
+D:\Oswaldo\Proyectos\Bicimoto Proy\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.pdb
+D:\Oswaldo\Proyectos\Bicimoto Proy\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.pdb
+D:\Oswaldo\Proyectos\Bicimoto Proy\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.pdb
+D:\Oswaldo\Proyectos\Bicimoto Proy\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.xml
+D:\Oswaldo\Proyectos\Bicimoto Proy\SistemaBici_Pucallpa\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csprojAssemblyReference.cache
+D:\Oswaldo\Proyectos\Bicimoto Proy\SistemaBici_Pucallpa\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CoreCompileInputs.cache
+D:\Oswaldo\Proyectos\Bicimoto Proy\SistemaBici_Pucallpa\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CopyComplete
+D:\Oswaldo\Proyectos\Bicimoto Proy\SistemaBici_Pucallpa\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.dll
+D:\Oswaldo\Proyectos\Bicimoto Proy\SistemaBici_Pucallpa\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.pdb
+C:\wks\Back\C#\AppBicimoto\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.dll
+C:\wks\Back\C#\AppBicimoto\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.pdb
+C:\wks\Back\C#\AppBicimoto\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.dll
+C:\wks\Back\C#\AppBicimoto\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.dll
+C:\wks\Back\C#\AppBicimoto\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.dll
+C:\wks\Back\C#\AppBicimoto\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.dll
+C:\wks\Back\C#\AppBicimoto\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\MySql.Data.dll
+C:\wks\Back\C#\AppBicimoto\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.pdb
+C:\wks\Back\C#\AppBicimoto\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.pdb
+C:\wks\Back\C#\AppBicimoto\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.pdb
+C:\wks\Back\C#\AppBicimoto\SistemaBici_Pucallpa\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.xml
+C:\wks\Back\C#\AppBicimoto\SistemaBici_Pucallpa\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csprojAssemblyReference.cache
+C:\wks\Back\C#\AppBicimoto\SistemaBici_Pucallpa\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CoreCompileInputs.cache
+C:\wks\Back\C#\AppBicimoto\SistemaBici_Pucallpa\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CopyComplete
+C:\wks\Back\C#\AppBicimoto\SistemaBici_Pucallpa\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.dll
+C:\wks\Back\C#\AppBicimoto\SistemaBici_Pucallpa\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.pdb
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.dll
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.pdb
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.dll
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.dll
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.dll
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.dll
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\MySql.Data.dll
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.pdb
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.pdb
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.pdb
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.xml
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csprojAssemblyReference.cache
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CoreCompileInputs.cache
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CopyComplete
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.dll
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.pdb
+C:\WS_NET\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.dll
+C:\WS_NET\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.pdb
+C:\WS_NET\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.dll
+C:\WS_NET\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.dll
+C:\WS_NET\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.dll
+C:\WS_NET\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.dll
+C:\WS_NET\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\MySql.Data.dll
+C:\WS_NET\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.pdb
+C:\WS_NET\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.pdb
+C:\WS_NET\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.pdb
+C:\WS_NET\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.xml
+C:\WS_NET\Minimarket_Demo2.1\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CoreCompileInputs.cache
+C:\WS_NET\Minimarket_Demo2.1\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CopyComplete
+C:\WS_NET\Minimarket_Demo2.1\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.dll
+C:\WS_NET\Minimarket_Demo2.1\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.pdb
+C:\WS_NET\Minimarket_Demo2.1\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csprojAssemblyReference.cache
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.pdb
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\MySql.Data.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.pdb
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.pdb
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.pdb
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.xml
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csprojAssemblyReference.cache
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CoreCompileInputs.cache
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CopyComplete
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.pdb
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.pdb
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\MySql.Data.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.pdb
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.pdb
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.pdb
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.xml
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csprojAssemblyReference.cache
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CoreCompileInputs.cache
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CopyComplete
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.pdb
+C:\WS_NET\rama-rebo\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.dll
+C:\WS_NET\rama-rebo\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.pdb
+C:\WS_NET\rama-rebo\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.dll
+C:\WS_NET\rama-rebo\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.dll
+C:\WS_NET\rama-rebo\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.dll
+C:\WS_NET\rama-rebo\rebo-minimarket\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.dll
+C:\WS_NET\rama-rebo\rebo-minimarket\Bicimoto.Xml\bin\Debug\MySql.Data.dll
+C:\WS_NET\rama-rebo\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.pdb
+C:\WS_NET\rama-rebo\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.pdb
+C:\WS_NET\rama-rebo\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.pdb
+C:\WS_NET\rama-rebo\rebo-minimarket\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.xml
+C:\WS_NET\rama-rebo\rebo-minimarket\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csprojAssemblyReference.cache
+C:\WS_NET\rama-rebo\rebo-minimarket\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CoreCompileInputs.cache
+C:\WS_NET\rama-rebo\rebo-minimarket\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CopyComplete
+C:\WS_NET\rama-rebo\rebo-minimarket\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.dll
+C:\WS_NET\rama-rebo\rebo-minimarket\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Xml\bin\Debug\MySql.Data.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csprojAssemblyReference.cache
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CoreCompileInputs.cache
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CopyComplete
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.pdb
+C:\Proyectos\SistemaReboGitLab\REBO2DESARROLLO\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.dll
+C:\Proyectos\SistemaReboGitLab\REBO2DESARROLLO\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.pdb
+C:\Proyectos\SistemaReboGitLab\REBO2DESARROLLO\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.dll
+C:\Proyectos\SistemaReboGitLab\REBO2DESARROLLO\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.dll
+C:\Proyectos\SistemaReboGitLab\REBO2DESARROLLO\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.dll
+C:\Proyectos\SistemaReboGitLab\REBO2DESARROLLO\rebo-minimarket\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.dll
+C:\Proyectos\SistemaReboGitLab\REBO2DESARROLLO\rebo-minimarket\Bicimoto.Xml\bin\Debug\MySql.Data.dll
+C:\Proyectos\SistemaReboGitLab\REBO2DESARROLLO\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.pdb
+C:\Proyectos\SistemaReboGitLab\REBO2DESARROLLO\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.pdb
+C:\Proyectos\SistemaReboGitLab\REBO2DESARROLLO\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.pdb
+C:\Proyectos\SistemaReboGitLab\REBO2DESARROLLO\rebo-minimarket\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.xml
+C:\Proyectos\SistemaReboGitLab\REBO2DESARROLLO\rebo-minimarket\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csprojAssemblyReference.cache
+C:\Proyectos\SistemaReboGitLab\REBO2DESARROLLO\rebo-minimarket\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CoreCompileInputs.cache
+C:\Proyectos\SistemaReboGitLab\REBO2DESARROLLO\rebo-minimarket\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CopyComplete
+C:\Proyectos\SistemaReboGitLab\REBO2DESARROLLO\rebo-minimarket\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.dll
+C:\Proyectos\SistemaReboGitLab\REBO2DESARROLLO\rebo-minimarket\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.pdb
+C:\WS_NET\cambios\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.dll
+C:\WS_NET\cambios\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.pdb
+C:\WS_NET\cambios\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.dll
+C:\WS_NET\cambios\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.dll
+C:\WS_NET\cambios\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.dll
+C:\WS_NET\cambios\rebo-minimarket\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.dll
+C:\WS_NET\cambios\rebo-minimarket\Bicimoto.Xml\bin\Debug\MySql.Data.dll
+C:\WS_NET\cambios\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.pdb
+C:\WS_NET\cambios\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.pdb
+C:\WS_NET\cambios\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.pdb
+C:\WS_NET\cambios\rebo-minimarket\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.xml
+C:\WS_NET\cambios\rebo-minimarket\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csprojAssemblyReference.cache
+C:\WS_NET\cambios\rebo-minimarket\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CoreCompileInputs.cache
+C:\WS_NET\cambios\rebo-minimarket\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CopyComplete
+C:\WS_NET\cambios\rebo-minimarket\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.dll
+C:\WS_NET\cambios\rebo-minimarket\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.pdb
+C:\WS_NET\REBO_REPO\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.pdb
+C:\WS_NET\REBO_REPO\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\Bicimoto.Xml\bin\Debug\MySql.Data.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.pdb
+C:\WS_NET\REBO_REPO\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.pdb
+C:\WS_NET\REBO_REPO\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.pdb
+C:\WS_NET\REBO_REPO\rebo-minimarket\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.xml
+C:\WS_NET\REBO_REPO\rebo-minimarket\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csprojAssemblyReference.cache
+C:\WS_NET\REBO_REPO\rebo-minimarket\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CoreCompileInputs.cache
+C:\WS_NET\REBO_REPO\rebo-minimarket\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CopyComplete
+C:\WS_NET\REBO_REPO\rebo-minimarket\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\Bicimoto.Xml\bin\Debug\MySql.Data.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csprojAssemblyReference.cache
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CoreCompileInputs.cache
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CopyComplete
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Xml\bin\Debug\MySql.Data.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csprojAssemblyReference.cache
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CoreCompileInputs.cache
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CopyComplete
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.pdb
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\Bicimoto.Xml\bin\Debug\Bicimoto.Xml.pdb
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\Bicimoto.Xml\bin\Debug\MySql.Data.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.Dto.pdb
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\Bicimoto.Xml\bin\Debug\Bicimoto.Comun.pdb
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\Bicimoto.Xml\bin\Debug\Bicimoto.Estructuras.pdb
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\Bicimoto.Xml\bin\Debug\Newtonsoft.Json.xml
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csprojAssemblyReference.cache
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CoreCompileInputs.cache
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.csproj.CopyComplete
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\Bicimoto.Xml\obj\Debug\Bicimoto.Xml.pdb

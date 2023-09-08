@@ -1,0 +1,28 @@
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Estructuras\bin\Release\Bicimoto.Estructuras.dll
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Estructuras\bin\Release\Bicimoto.Estructuras.pdb
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Estructuras\bin\Release\Bicimoto.Comun.dll
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Estructuras\bin\Release\Bicimoto.Comun.pdb
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Estructuras\obj\Release\Bicimoto.Estructuras.csprojAssemblyReference.cache
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Estructuras\obj\Release\Bicimoto.Estructuras.csproj.CoreCompileInputs.cache
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Estructuras\obj\Release\Bicimoto.Estructuras.csproj.CopyComplete
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Estructuras\obj\Release\Bicimoto.Estructuras.dll
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Estructuras\obj\Release\Bicimoto.Estructuras.pdb
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Estructuras\bin\Release\Bicimoto.Estructuras.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Estructuras\bin\Release\Bicimoto.Estructuras.pdb
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Estructuras\bin\Release\Bicimoto.Comun.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Estructuras\bin\Release\Bicimoto.Comun.pdb
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Estructuras\obj\Release\Bicimoto.Estructuras.csprojAssemblyReference.cache
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Estructuras\obj\Release\Bicimoto.Estructuras.csproj.CopyComplete
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Estructuras\obj\Release\Bicimoto.Estructuras.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Estructuras\obj\Release\Bicimoto.Estructuras.pdb
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Estructuras\bin\Release\Bicimoto.Estructuras.dll
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Estructuras\bin\Release\Bicimoto.Estructuras.pdb
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Estructuras\bin\Release\Bicimoto.Comun.dll
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Estructuras\bin\Release\Newtonsoft.Json.dll
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Estructuras\bin\Release\Bicimoto.Comun.pdb
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Estructuras\bin\Release\Newtonsoft.Json.xml
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Estructuras\obj\Release\Bicimoto.Estructuras.csprojAssemblyReference.cache
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Estructuras\obj\Release\Bicimoto.Estructuras.csproj.CoreCompileInputs.cache
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Estructuras\obj\Release\Bicimoto.Estructuras.csproj.CopyComplete
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Estructuras\obj\Release\Bicimoto.Estructuras.dll
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Estructuras\obj\Release\Bicimoto.Estructuras.pdb

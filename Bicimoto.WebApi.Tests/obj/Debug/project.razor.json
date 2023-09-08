@@ -1,0 +1,20 @@
+{
+  "SerializedFilePath": "c:\\WS_NET\\REBO_REPO\\rebo-minimarket\\Bicimoto.WebApi.Tests\\obj\\Debug\\project.razor.json",
+  "FilePath": "c:\\WS_NET\\REBO_REPO\\rebo-minimarket\\Bicimoto.WebApi.Tests\\Bicimoto.WebApi.Tests.csproj",
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": null,
+  "Documents": [],
+  "SerializationFormat": "0.3"
+}

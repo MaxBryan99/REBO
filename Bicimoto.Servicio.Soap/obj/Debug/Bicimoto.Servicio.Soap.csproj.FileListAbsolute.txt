@@ -1,0 +1,289 @@
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll.config
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Servicio.Soap\bin\Debug\Microsoft.Web.Services3.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csprojAssemblyReference.cache
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CoreCompileInputs.cache
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CopyComplete
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.pdb
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll.config
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.pdb
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.dll
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.dll
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Servicio.Soap\bin\Debug\Microsoft.Web.Services3.dll
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.pdb
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.pdb
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csprojAssemblyReference.cache
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CoreCompileInputs.cache
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CopyComplete
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.dll
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.pdb
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll.config
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.pdb
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Servicio.Soap\bin\Debug\Microsoft.Web.Services3.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.pdb
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.pdb
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csprojAssemblyReference.cache
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CopyComplete
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.pdb
+D:\SISTEMA BICIMOTO 2.1 Visual 2019\bicimotopucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll.config
+D:\SISTEMA BICIMOTO 2.1 Visual 2019\bicimotopucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll
+D:\SISTEMA BICIMOTO 2.1 Visual 2019\bicimotopucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.pdb
+D:\SISTEMA BICIMOTO 2.1 Visual 2019\bicimotopucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.dll
+D:\SISTEMA BICIMOTO 2.1 Visual 2019\bicimotopucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.dll
+D:\SISTEMA BICIMOTO 2.1 Visual 2019\bicimotopucallpa\Bicimoto.Servicio.Soap\bin\Debug\Microsoft.Web.Services3.dll
+D:\SISTEMA BICIMOTO 2.1 Visual 2019\bicimotopucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.pdb
+D:\SISTEMA BICIMOTO 2.1 Visual 2019\bicimotopucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.pdb
+D:\SISTEMA BICIMOTO 2.1 Visual 2019\bicimotopucallpa\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csprojAssemblyReference.cache
+D:\SISTEMA BICIMOTO 2.1 Visual 2019\bicimotopucallpa\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CoreCompileInputs.cache
+D:\SISTEMA BICIMOTO 2.1 Visual 2019\bicimotopucallpa\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CopyComplete
+D:\SISTEMA BICIMOTO 2.1 Visual 2019\bicimotopucallpa\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.dll
+D:\SISTEMA BICIMOTO 2.1 Visual 2019\bicimotopucallpa\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.pdb
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll.config
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.pdb
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Microsoft.Web.Services3.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.pdb
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.pdb
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csprojAssemblyReference.cache
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CopyComplete
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.pdb
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CoreCompileInputs.cache
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll.config
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.pdb
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Microsoft.Web.Services3.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.pdb
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.pdb
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CoreCompileInputs.cache
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CopyComplete
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.pdb
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Newtonsoft.Json.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Newtonsoft.Json.xml
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.AssemblyReference.cache
+D:\Oswaldo\Proyectos\Bicimoto Proy\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll.config
+D:\Oswaldo\Proyectos\Bicimoto Proy\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll
+D:\Oswaldo\Proyectos\Bicimoto Proy\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.pdb
+D:\Oswaldo\Proyectos\Bicimoto Proy\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.dll
+D:\Oswaldo\Proyectos\Bicimoto Proy\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.dll
+D:\Oswaldo\Proyectos\Bicimoto Proy\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Microsoft.Web.Services3.dll
+D:\Oswaldo\Proyectos\Bicimoto Proy\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Newtonsoft.Json.dll
+D:\Oswaldo\Proyectos\Bicimoto Proy\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.pdb
+D:\Oswaldo\Proyectos\Bicimoto Proy\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.pdb
+D:\Oswaldo\Proyectos\Bicimoto Proy\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Newtonsoft.Json.xml
+D:\Oswaldo\Proyectos\Bicimoto Proy\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csprojAssemblyReference.cache
+D:\Oswaldo\Proyectos\Bicimoto Proy\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CoreCompileInputs.cache
+D:\Oswaldo\Proyectos\Bicimoto Proy\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CopyComplete
+D:\Oswaldo\Proyectos\Bicimoto Proy\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.dll
+D:\Oswaldo\Proyectos\Bicimoto Proy\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.pdb
+C:\wks\Back\C#\AppBicimoto\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll.config
+C:\wks\Back\C#\AppBicimoto\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll
+C:\wks\Back\C#\AppBicimoto\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.pdb
+C:\wks\Back\C#\AppBicimoto\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.dll
+C:\wks\Back\C#\AppBicimoto\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.dll
+C:\wks\Back\C#\AppBicimoto\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Microsoft.Web.Services3.dll
+C:\wks\Back\C#\AppBicimoto\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Newtonsoft.Json.dll
+C:\wks\Back\C#\AppBicimoto\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.pdb
+C:\wks\Back\C#\AppBicimoto\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.pdb
+C:\wks\Back\C#\AppBicimoto\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\bin\Debug\Newtonsoft.Json.xml
+C:\wks\Back\C#\AppBicimoto\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csprojAssemblyReference.cache
+C:\wks\Back\C#\AppBicimoto\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CoreCompileInputs.cache
+C:\wks\Back\C#\AppBicimoto\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CopyComplete
+C:\wks\Back\C#\AppBicimoto\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.dll
+C:\wks\Back\C#\AppBicimoto\SistemaBici_Pucallpa\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.pdb
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll.config
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.pdb
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.dll
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.dll
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Microsoft.Web.Services3.dll
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Newtonsoft.Json.dll
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.pdb
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.pdb
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Newtonsoft.Json.xml
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csprojAssemblyReference.cache
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CoreCompileInputs.cache
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CopyComplete
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.dll
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.pdb
+C:\WS_NET\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll.config
+C:\WS_NET\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll
+C:\WS_NET\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.pdb
+C:\WS_NET\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.dll
+C:\WS_NET\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.dll
+C:\WS_NET\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Microsoft.Web.Services3.dll
+C:\WS_NET\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Newtonsoft.Json.dll
+C:\WS_NET\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.pdb
+C:\WS_NET\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.pdb
+C:\WS_NET\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Newtonsoft.Json.xml
+C:\WS_NET\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CoreCompileInputs.cache
+C:\WS_NET\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CopyComplete
+C:\WS_NET\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.dll
+C:\WS_NET\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.pdb
+C:\WS_NET\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csprojAssemblyReference.cache
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csprojAssemblyReference.cache
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CoreCompileInputs.cache
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll.config
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.pdb
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Microsoft.Web.Services3.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Newtonsoft.Json.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.pdb
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.pdb
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Newtonsoft.Json.xml
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CopyComplete
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.pdb
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll.config
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.pdb
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Microsoft.Web.Services3.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Newtonsoft.Json.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.pdb
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.pdb
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\bin\Debug\Newtonsoft.Json.xml
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csprojAssemblyReference.cache
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CoreCompileInputs.cache
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CopyComplete
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.pdb
+C:\WS_NET\rama-rebo\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll.config
+C:\WS_NET\rama-rebo\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll
+C:\WS_NET\rama-rebo\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.pdb
+C:\WS_NET\rama-rebo\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.dll
+C:\WS_NET\rama-rebo\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.dll
+C:\WS_NET\rama-rebo\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Microsoft.Web.Services3.dll
+C:\WS_NET\rama-rebo\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Newtonsoft.Json.dll
+C:\WS_NET\rama-rebo\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.pdb
+C:\WS_NET\rama-rebo\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.pdb
+C:\WS_NET\rama-rebo\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Newtonsoft.Json.xml
+C:\WS_NET\rama-rebo\rebo-minimarket\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csprojAssemblyReference.cache
+C:\WS_NET\rama-rebo\rebo-minimarket\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CoreCompileInputs.cache
+C:\WS_NET\rama-rebo\rebo-minimarket\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CopyComplete
+C:\WS_NET\rama-rebo\rebo-minimarket\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.dll
+C:\WS_NET\rama-rebo\rebo-minimarket\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll.config
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Microsoft.Web.Services3.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Newtonsoft.Json.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Newtonsoft.Json.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csprojAssemblyReference.cache
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CoreCompileInputs.cache
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CopyComplete
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.pdb
+C:\Proyectos\SistemaReboGitLab\REBO2DESARROLLO\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll.config
+C:\Proyectos\SistemaReboGitLab\REBO2DESARROLLO\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll
+C:\Proyectos\SistemaReboGitLab\REBO2DESARROLLO\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.pdb
+C:\Proyectos\SistemaReboGitLab\REBO2DESARROLLO\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.dll
+C:\Proyectos\SistemaReboGitLab\REBO2DESARROLLO\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.dll
+C:\Proyectos\SistemaReboGitLab\REBO2DESARROLLO\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Microsoft.Web.Services3.dll
+C:\Proyectos\SistemaReboGitLab\REBO2DESARROLLO\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Newtonsoft.Json.dll
+C:\Proyectos\SistemaReboGitLab\REBO2DESARROLLO\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.pdb
+C:\Proyectos\SistemaReboGitLab\REBO2DESARROLLO\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.pdb
+C:\Proyectos\SistemaReboGitLab\REBO2DESARROLLO\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Newtonsoft.Json.xml
+C:\Proyectos\SistemaReboGitLab\REBO2DESARROLLO\rebo-minimarket\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csprojAssemblyReference.cache
+C:\Proyectos\SistemaReboGitLab\REBO2DESARROLLO\rebo-minimarket\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CoreCompileInputs.cache
+C:\Proyectos\SistemaReboGitLab\REBO2DESARROLLO\rebo-minimarket\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CopyComplete
+C:\Proyectos\SistemaReboGitLab\REBO2DESARROLLO\rebo-minimarket\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.dll
+C:\Proyectos\SistemaReboGitLab\REBO2DESARROLLO\rebo-minimarket\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.pdb
+C:\WS_NET\cambios\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll.config
+C:\WS_NET\cambios\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll
+C:\WS_NET\cambios\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.pdb
+C:\WS_NET\cambios\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.dll
+C:\WS_NET\cambios\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.dll
+C:\WS_NET\cambios\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Microsoft.Web.Services3.dll
+C:\WS_NET\cambios\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Newtonsoft.Json.dll
+C:\WS_NET\cambios\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.pdb
+C:\WS_NET\cambios\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.pdb
+C:\WS_NET\cambios\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Newtonsoft.Json.xml
+C:\WS_NET\cambios\rebo-minimarket\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csprojAssemblyReference.cache
+C:\WS_NET\cambios\rebo-minimarket\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CoreCompileInputs.cache
+C:\WS_NET\cambios\rebo-minimarket\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CopyComplete
+C:\WS_NET\cambios\rebo-minimarket\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.dll
+C:\WS_NET\cambios\rebo-minimarket\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.pdb
+C:\WS_NET\REBO_REPO\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll.config
+C:\WS_NET\REBO_REPO\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.pdb
+C:\WS_NET\REBO_REPO\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Microsoft.Web.Services3.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Newtonsoft.Json.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.pdb
+C:\WS_NET\REBO_REPO\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.pdb
+C:\WS_NET\REBO_REPO\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Newtonsoft.Json.xml
+C:\WS_NET\REBO_REPO\rebo-minimarket\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csprojAssemblyReference.cache
+C:\WS_NET\REBO_REPO\rebo-minimarket\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CoreCompileInputs.cache
+C:\WS_NET\REBO_REPO\rebo-minimarket\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CopyComplete
+C:\WS_NET\REBO_REPO\rebo-minimarket\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.dll
+C:\WS_NET\REBO_REPO\rebo-minimarket\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll.config
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Microsoft.Web.Services3.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Newtonsoft.Json.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\Bicimoto.Servicio.Soap\bin\Debug\Newtonsoft.Json.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csprojAssemblyReference.cache
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CoreCompileInputs.cache
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CopyComplete
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN PRODUCCION\rebo 29-06-2023\rebo-minimarket\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll.config
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Servicio.Soap\bin\Debug\Microsoft.Web.Services3.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Servicio.Soap\bin\Debug\Newtonsoft.Json.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Servicio.Soap\bin\Debug\Newtonsoft.Json.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csprojAssemblyReference.cache
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CoreCompileInputs.cache
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CopyComplete
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.pdb
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll.config
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.Soap.pdb
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\Bicimoto.Servicio.Soap\bin\Debug\Microsoft.Web.Services3.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\Bicimoto.Servicio.Soap\bin\Debug\Newtonsoft.Json.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Comun.pdb
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\Bicimoto.Servicio.Soap\bin\Debug\Bicimoto.Servicio.pdb
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\Bicimoto.Servicio.Soap\bin\Debug\Newtonsoft.Json.xml
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csprojAssemblyReference.cache
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CoreCompileInputs.cache
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.csproj.CopyComplete
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.dll
+C:\Proyectos\SistemaReboGitLab\URGENTE\app-market\Bicimoto.Servicio.Soap\obj\Debug\Bicimoto.Servicio.Soap.pdb

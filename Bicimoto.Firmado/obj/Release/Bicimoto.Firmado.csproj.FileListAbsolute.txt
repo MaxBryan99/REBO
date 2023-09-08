@@ -1,0 +1,47 @@
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Firmado\bin\Release\Bicimoto.Firmado.dll
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Firmado\bin\Release\Bicimoto.Firmado.pdb
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Firmado\bin\Release\Bicimoto.Comun.dll
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Firmado\bin\Release\Bicimoto.Comun.Dto.dll
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Firmado\bin\Release\DotNetZip.dll
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Firmado\bin\Release\Newtonsoft.Json.dll
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Firmado\bin\Release\MySql.Data.dll
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Firmado\bin\Release\Bicimoto.Comun.Dto.pdb
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Firmado\bin\Release\Bicimoto.Comun.pdb
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Firmado\bin\Release\DotNetZip.xml
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Firmado\bin\Release\Newtonsoft.Json.xml
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Firmado\obj\Release\Bicimoto.Firmado.csprojAssemblyReference.cache
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Firmado\obj\Release\Bicimoto.Firmado.csproj.CoreCompileInputs.cache
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Firmado\obj\Release\Bicimoto.Firmado.csproj.CopyComplete
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Firmado\obj\Release\Bicimoto.Firmado.dll
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Firmado\obj\Release\Bicimoto.Firmado.pdb
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Firmado\bin\Release\Bicimoto.Firmado.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Firmado\bin\Release\Bicimoto.Firmado.pdb
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Firmado\bin\Release\Bicimoto.Comun.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Firmado\bin\Release\Bicimoto.Comun.Dto.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Firmado\bin\Release\DotNetZip.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Firmado\bin\Release\Newtonsoft.Json.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Firmado\bin\Release\MySql.Data.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Firmado\bin\Release\Bicimoto.Comun.Dto.pdb
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Firmado\bin\Release\Bicimoto.Comun.pdb
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Firmado\bin\Release\DotNetZip.xml
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Firmado\bin\Release\Newtonsoft.Json.xml
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Firmado\obj\Release\Bicimoto.Firmado.csprojAssemblyReference.cache
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Firmado\obj\Release\Bicimoto.Firmado.csproj.CopyComplete
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Firmado\obj\Release\Bicimoto.Firmado.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Firmado\obj\Release\Bicimoto.Firmado.pdb
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Firmado\bin\Release\Bicimoto.Firmado.dll
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Firmado\bin\Release\Bicimoto.Firmado.pdb
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Firmado\bin\Release\Bicimoto.Comun.dll
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Firmado\bin\Release\Bicimoto.Comun.Dto.dll
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Firmado\bin\Release\DotNetZip.dll
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Firmado\bin\Release\Newtonsoft.Json.dll
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Firmado\bin\Release\MySql.Data.dll
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Firmado\bin\Release\Bicimoto.Comun.Dto.pdb
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Firmado\bin\Release\Bicimoto.Comun.pdb
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Firmado\bin\Release\DotNetZip.xml
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Firmado\bin\Release\Newtonsoft.Json.xml
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Firmado\obj\Release\Bicimoto.Firmado.csprojAssemblyReference.cache
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Firmado\obj\Release\Bicimoto.Firmado.csproj.CoreCompileInputs.cache
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Firmado\obj\Release\Bicimoto.Firmado.csproj.CopyComplete
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Firmado\obj\Release\Bicimoto.Firmado.dll
+C:\wks\Back\C#\AppBicimoto\Minimarket_Demo2.1\Bicimoto.Firmado\obj\Release\Bicimoto.Firmado.pdb

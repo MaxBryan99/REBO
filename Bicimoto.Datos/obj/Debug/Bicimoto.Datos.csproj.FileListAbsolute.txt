@@ -1,0 +1,179 @@
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Datos\bin\Debug\Bicimoto.Datos.dll.config
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Datos\bin\Debug\Bicimoto.Datos.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Datos\bin\Debug\Bicimoto.Datos.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Datos\bin\Debug\EntityFramework.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Datos\bin\Debug\EntityFramework.SqlServer.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Datos\bin\Debug\SQLite.CodeFirst.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Datos\bin\Debug\EntityFramework.xml
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Datos\bin\Debug\EntityFramework.SqlServer.xml
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Datos\bin\Debug\es\EntityFramework.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Datos\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.csprojAssemblyReference.cache
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.csproj.CoreCompileInputs.cache
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.csproj.CopyComplete
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.pdb
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Datos\bin\Debug\Bicimoto.Datos.dll.config
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Datos\bin\Debug\Bicimoto.Datos.dll
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Datos\bin\Debug\Bicimoto.Datos.pdb
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Datos\bin\Debug\EntityFramework.dll
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Datos\bin\Debug\EntityFramework.SqlServer.dll
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Datos\bin\Debug\SQLite.CodeFirst.dll
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Datos\bin\Debug\EntityFramework.xml
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Datos\bin\Debug\EntityFramework.SqlServer.xml
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Datos\bin\Debug\es\EntityFramework.resources.dll
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Datos\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.csprojAssemblyReference.cache
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.csproj.CoreCompileInputs.cache
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.csproj.CopyComplete
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.dll
+D:\Oswaldo\Proyectos\Abel Castillo\Sistema\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.pdb
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Datos\bin\Debug\Bicimoto.Datos.dll.config
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Datos\bin\Debug\Bicimoto.Datos.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Datos\bin\Debug\Bicimoto.Datos.pdb
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Datos\bin\Debug\EntityFramework.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Datos\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Datos\bin\Debug\SQLite.CodeFirst.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Datos\bin\Debug\EntityFramework.xml
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Datos\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Datos\bin\Debug\es\EntityFramework.resources.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Datos\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.csprojAssemblyReference.cache
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.csproj.CopyComplete
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.pdb
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Datos\bin\Debug\Bicimoto.Datos.dll.config
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Datos\bin\Debug\Bicimoto.Datos.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Datos\bin\Debug\Bicimoto.Datos.pdb
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Datos\bin\Debug\EntityFramework.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Datos\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Datos\bin\Debug\SQLite.CodeFirst.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Datos\bin\Debug\EntityFramework.xml
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Datos\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Datos\bin\Debug\es\EntityFramework.resources.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Datos\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.csprojAssemblyReference.cache
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.csproj.CopyComplete
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.pdb
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.csproj.CoreCompileInputs.cache
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Datos\bin\Debug\Bicimoto.Datos.dll.config
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Datos\bin\Debug\Bicimoto.Datos.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Datos\bin\Debug\Bicimoto.Datos.pdb
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Datos\bin\Debug\EntityFramework.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Datos\bin\Debug\EntityFramework.SqlServer.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Datos\bin\Debug\Newtonsoft.Json.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Datos\bin\Debug\SQLite.CodeFirst.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Datos\bin\Debug\System.Data.SQLite.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Datos\bin\Debug\EntityFramework.xml
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Datos\bin\Debug\EntityFramework.SqlServer.xml
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Datos\bin\Debug\Newtonsoft.Json.xml
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Datos\bin\Debug\System.Data.SQLite.xml
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Datos\bin\Debug\System.Data.SQLite.dll.config
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Datos\bin\Debug\es\EntityFramework.resources.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Datos\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.csproj.AssemblyReference.cache
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.csproj.CoreCompileInputs.cache
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.csproj.CopyComplete
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.pdb
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\bin\Debug\Bicimoto.Datos.dll.config
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\bin\Debug\Bicimoto.Datos.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\bin\Debug\Bicimoto.Datos.pdb
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\bin\Debug\EntityFramework.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\bin\Debug\Newtonsoft.Json.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\bin\Debug\SQLite.CodeFirst.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\bin\Debug\System.Data.SQLite.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\bin\Debug\EntityFramework.xml
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\bin\Debug\Newtonsoft.Json.xml
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\bin\Debug\System.Data.SQLite.xml
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\bin\Debug\System.Data.SQLite.dll.config
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\bin\Debug\es\EntityFramework.resources.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.csprojAssemblyReference.cache
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.csproj.CoreCompileInputs.cache
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.csproj.CopyComplete
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.pdb
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\bin\Debug\Bicimoto.Datos.dll.config
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\bin\Debug\Bicimoto.Datos.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\bin\Debug\Bicimoto.Datos.pdb
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\bin\Debug\EntityFramework.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\bin\Debug\Newtonsoft.Json.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\bin\Debug\SQLite.CodeFirst.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\bin\Debug\System.Data.SQLite.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\bin\Debug\EntityFramework.xml
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\bin\Debug\Newtonsoft.Json.xml
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\bin\Debug\System.Data.SQLite.xml
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\bin\Debug\System.Data.SQLite.dll.config
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\bin\Debug\es\EntityFramework.resources.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.csprojAssemblyReference.cache
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.csproj.CoreCompileInputs.cache
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.csproj.CopyComplete
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Datos\bin\Debug\Bicimoto.Datos.dll.config
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Datos\bin\Debug\Bicimoto.Datos.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Datos\bin\Debug\Bicimoto.Datos.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Datos\bin\Debug\EntityFramework.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Datos\bin\Debug\Newtonsoft.Json.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Datos\bin\Debug\SQLite.CodeFirst.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Datos\bin\Debug\System.Data.SQLite.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Datos\bin\Debug\EntityFramework.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Datos\bin\Debug\Newtonsoft.Json.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Datos\bin\Debug\System.Data.SQLite.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Datos\bin\Debug\System.Data.SQLite.dll.config
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Datos\bin\Debug\es\EntityFramework.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Datos\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.csprojAssemblyReference.cache
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.csproj.CoreCompileInputs.cache
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.csproj.CopyComplete
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.Datos\bin\Debug\Bicimoto.Datos.dll.config
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.Datos\bin\Debug\Bicimoto.Datos.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.Datos\bin\Debug\Bicimoto.Datos.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.Datos\bin\Debug\EntityFramework.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.Datos\bin\Debug\Newtonsoft.Json.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.Datos\bin\Debug\SQLite.CodeFirst.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.Datos\bin\Debug\System.Data.SQLite.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.Datos\bin\Debug\EntityFramework.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.Datos\bin\Debug\Newtonsoft.Json.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.Datos\bin\Debug\System.Data.SQLite.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.Datos\bin\Debug\System.Data.SQLite.dll.config
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.Datos\bin\Debug\es\EntityFramework.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.Datos\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.csprojAssemblyReference.cache
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.csproj.CoreCompileInputs.cache
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.csproj.CopyComplete
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Datos\bin\Debug\Bicimoto.Datos.dll.config
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Datos\bin\Debug\Bicimoto.Datos.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Datos\bin\Debug\Bicimoto.Datos.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Datos\bin\Debug\EntityFramework.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Datos\bin\Debug\Newtonsoft.Json.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Datos\bin\Debug\SQLite.CodeFirst.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Datos\bin\Debug\System.Data.SQLite.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Datos\bin\Debug\EntityFramework.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Datos\bin\Debug\Newtonsoft.Json.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Datos\bin\Debug\System.Data.SQLite.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Datos\bin\Debug\System.Data.SQLite.dll.config
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Datos\bin\Debug\es\EntityFramework.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Datos\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.csprojAssemblyReference.cache
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.csproj.CoreCompileInputs.cache
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.csproj.CopyComplete
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.Datos\obj\Debug\Bicimoto.Datos.pdb

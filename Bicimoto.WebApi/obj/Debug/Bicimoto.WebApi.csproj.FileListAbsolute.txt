@@ -1,0 +1,1748 @@
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\roslyn\csc.exe
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\roslyn\vbc.exe
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\roslyn\VBCSCompiler.exe
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.WebApi.dll.config
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.WebApi.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.WebApi.pdb
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Antlr3.Runtime.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.Comun.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.Comun.Dto.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.Datos.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.Firmado.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.Servicio.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.Servicio.Soap.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.Xml.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\EntityFramework.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\EntityFramework.SqlServer.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.AI.Web.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.AI.WindowsServer.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.ApplicationInsights.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.WebApi.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Newtonsoft.Json.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Swashbuckle.Core.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\System.Net.Http.Formatting.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.Helpers.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.Http.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.Http.Owin.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.Http.WebHost.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.Mvc.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.Optimization.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.Razor.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.WebPages.Deployment.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.WebPages.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.WebPages.Razor.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\WebActivatorEx.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\WebGrease.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\SQLite.CodeFirst.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\DotNetZip.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.Web.Services3.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.Estructuras.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.Comun.Dto.pdb
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.Comun.pdb
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.Datos.pdb
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.Firmado.pdb
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.Servicio.Soap.pdb
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.Servicio.pdb
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.Xml.pdb
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.AI.Web.xml
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.AI.WindowsServer.xml
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.ApplicationInsights.xml
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.Practices.ServiceLocation.xml
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.xml
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.WebApi.xml
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Newtonsoft.Json.xml
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\System.Net.Http.Formatting.xml
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.Helpers.xml
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.Http.xml
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.Http.WebHost.xml
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.Mvc.xml
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.Optimization.xml
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.Razor.xml
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.WebPages.xml
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.WebPages.Deployment.xml
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.WebPages.Razor.xml
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Antlr3.Runtime.pdb
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\EntityFramework.xml
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\EntityFramework.SqlServer.xml
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.Http.Owin.xml
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\DotNetZip.xml
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.Estructuras.pdb
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\es\System.Web.Helpers.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\es\System.Web.Http.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\es\System.Web.Mvc.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\es\System.Web.Optimization.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\es\System.Web.Razor.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\es\System.Web.WebPages.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\es\EntityFramework.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\es\EntityFramework.SqlServer.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\bin\es\System.Web.Http.Owin.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.csprojResolveAssemblyReference.cache
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.dll
+D:\Oswaldo\Proyectos\SisBicimoto_20170810\SisBicimotoApp\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\roslyn\VBCSCompiler.exe
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\roslyn\csc.exe
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\roslyn\vbc.exe
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Antlr3.Runtime.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.Comun.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.Comun.Dto.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.Datos.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.Firmado.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.Servicio.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.Servicio.Soap.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.Xml.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\EntityFramework.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\EntityFramework.SqlServer.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.AI.Web.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.AI.WindowsServer.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.ApplicationInsights.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.WebApi.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\MySql.Data.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Newtonsoft.Json.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Swashbuckle.Core.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\System.Net.Http.Formatting.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.Helpers.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.Http.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.Http.Owin.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.Http.WebHost.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.Mvc.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.Optimization.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.Razor.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.WebPages.Deployment.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.WebPages.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.WebPages.Razor.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\WebActivatorEx.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\WebGrease.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\SQLite.CodeFirst.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\DotNetZip.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.Web.Services3.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.Estructuras.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.Comun.Dto.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.Comun.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.Datos.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.Datos.dll.config
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.Firmado.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.Servicio.Soap.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.Servicio.Soap.dll.config
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.Servicio.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.Xml.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.AI.Web.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.AI.WindowsServer.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.ApplicationInsights.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.Practices.ServiceLocation.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.WebApi.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Newtonsoft.Json.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\System.Net.Http.Formatting.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.Helpers.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.Http.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.Http.WebHost.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.Mvc.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.Optimization.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.Razor.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.WebPages.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.WebPages.Deployment.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.WebPages.Razor.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Antlr3.Runtime.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\EntityFramework.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\EntityFramework.SqlServer.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\System.Web.Http.Owin.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\DotNetZip.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.Estructuras.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\es\System.Web.Helpers.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\es\System.Web.Http.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\es\System.Web.Mvc.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\es\System.Web.Optimization.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\es\System.Web.Razor.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\es\System.Web.WebPages.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\es\EntityFramework.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\es\EntityFramework.SqlServer.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\es\System.Web.Http.Owin.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.csprojResolveAssemblyReference.cache
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.csproj.CoreCompileInputs.cache
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\SistemaBici.exe
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\CrystalDecisions.Windows.Forms.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\CrystalDecisions.Shared.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\CrystalDecisions.ReportSource.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\FlashControlV71.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\stdole.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\ShockwaveFlashObjects.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\SistemaBici.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\SistemaBici.exe.config
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.WebApi.dll.config
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.WebApi.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\Bicimoto.WebApi.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp\Bicimoto.WebApi\bin\System.Collections.Immutable.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\roslyn\csc.exe
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\roslyn\vbc.exe
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\roslyn\VBCSCompiler.exe
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Bicimoto.WebApi.dll.config
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Bicimoto.WebApi.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Bicimoto.WebApi.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Antlr3.Runtime.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Bicimoto.Comun.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Bicimoto.Comun.Dto.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Bicimoto.Datos.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Bicimoto.Firmado.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Bicimoto.Servicio.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Bicimoto.Servicio.Soap.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Bicimoto.Xml.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\EntityFramework.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\EntityFramework.SqlServer.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Microsoft.AI.Web.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Microsoft.AI.WindowsServer.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Microsoft.ApplicationInsights.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.WebApi.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\MySql.Data.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Newtonsoft.Json.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\SistemaBici.exe
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Swashbuckle.Core.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\System.Collections.Immutable.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\System.Net.Http.Formatting.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\System.Web.Helpers.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\System.Web.Http.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\System.Web.Http.Owin.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\System.Web.Http.WebHost.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\System.Web.Mvc.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\System.Web.Optimization.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\System.Web.Razor.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\System.Web.WebPages.Deployment.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\System.Web.WebPages.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\System.Web.WebPages.Razor.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\WebActivatorEx.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\WebGrease.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\SQLite.CodeFirst.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\DotNetZip.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Microsoft.Web.Services3.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Bicimoto.Estructuras.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.Windows.Forms.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.Shared.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportSource.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\FlashControlV71.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\stdole.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\ShockwaveFlashObjects.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Bicimoto.Comun.Dto.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Bicimoto.Comun.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Bicimoto.Datos.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Bicimoto.Datos.dll.config
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Bicimoto.Firmado.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Bicimoto.Servicio.Soap.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Bicimoto.Servicio.Soap.dll.config
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Bicimoto.Servicio.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Bicimoto.Xml.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\SistemaBici.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\SistemaBici.exe.config
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Microsoft.AI.Web.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Microsoft.AI.WindowsServer.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Microsoft.ApplicationInsights.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.ServiceLocation.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.WebApi.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Newtonsoft.Json.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\System.Net.Http.Formatting.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\System.Web.Helpers.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\System.Web.Http.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\System.Web.Http.WebHost.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\System.Web.Mvc.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\System.Web.Optimization.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\System.Web.Razor.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\System.Web.WebPages.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\System.Web.WebPages.Deployment.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\System.Web.WebPages.Razor.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Antlr3.Runtime.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\EntityFramework.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\EntityFramework.SqlServer.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\System.Web.Http.Owin.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\DotNetZip.xml
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\Bicimoto.Estructuras.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\es\System.Web.Helpers.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\es\System.Web.Http.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\es\System.Web.Mvc.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\es\System.Web.Optimization.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\es\System.Web.Razor.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\es\System.Web.WebPages.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\es\EntityFramework.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\es\EntityFramework.SqlServer.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\es\System.Web.Http.Owin.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.csprojResolveAssemblyReference.cache
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.csproj.CoreCompileInputs.cache
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\SqlServerTypes\x64\msvcr120.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\SqlServerTypes\x86\msvcr120.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Oswaldo\Proyectos\SisBicimoto\SisBicimotoApp_pucallpa\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.csproj.CopyComplete
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\SqlServerTypes\x64\msvcr120.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\SqlServerTypes\x86\msvcr120.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\roslyn\csc.exe
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\roslyn\vbc.exe
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\roslyn\VBCSCompiler.exe
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.WebApi.dll.config
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.WebApi.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.WebApi.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Antlr3.Runtime.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.Comun.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.Comun.Dto.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.Datos.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.Firmado.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.Servicio.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.Servicio.Soap.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.Xml.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\EntityFramework.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\EntityFramework.SqlServer.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.AI.Web.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.AI.WindowsServer.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.ApplicationInsights.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.WebApi.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\MySql.Data.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Newtonsoft.Json.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\SistemaBici.exe
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Swashbuckle.Core.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\System.Net.Http.Formatting.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.Helpers.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.Http.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.Http.Owin.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.Http.WebHost.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.Mvc.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.Optimization.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.Razor.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.WebPages.Deployment.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.WebPages.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.WebPages.Razor.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\WebActivatorEx.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\WebGrease.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\SQLite.CodeFirst.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\DotNetZip.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.Web.Services3.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.Estructuras.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\CrystalDecisions.Windows.Forms.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\CrystalDecisions.Shared.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportSource.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\FlashControlV71.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\stdole.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\ShockwaveFlashObjects.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.Comun.Dto.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.Comun.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.Datos.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.Datos.dll.config
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.Firmado.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.Servicio.Soap.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.Servicio.Soap.dll.config
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.Servicio.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.Xml.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\SistemaBici.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\SistemaBici.exe.config
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.AI.Web.xml
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.AI.WindowsServer.xml
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.ApplicationInsights.xml
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.ServiceLocation.xml
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.xml
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.WebApi.xml
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Newtonsoft.Json.xml
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\System.Net.Http.Formatting.xml
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.Helpers.xml
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.Http.xml
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.Http.WebHost.xml
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.Mvc.xml
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.Optimization.xml
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.Razor.xml
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.WebPages.xml
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.WebPages.Deployment.xml
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.WebPages.Razor.xml
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Antlr3.Runtime.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\EntityFramework.xml
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\EntityFramework.SqlServer.xml
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.Http.Owin.xml
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\DotNetZip.xml
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.Estructuras.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\es\System.Web.Helpers.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\es\System.Web.Http.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\es\System.Web.Mvc.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\es\System.Web.Optimization.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\es\System.Web.Razor.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\es\System.Web.WebPages.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\es\EntityFramework.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\es\EntityFramework.SqlServer.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\es\System.Web.Http.Owin.resources.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.csprojAssemblyReference.cache
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.csproj.CoreCompileInputs.cache
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.csproj.CopyComplete
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\TextBoxAutoexplicativo.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\tessnet2_32.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.VisualBasic.PowerPacks.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.API.dll
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\TextBoxAutoexplicativo.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.VisualBasic.PowerPacks.xml
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.API.pdb
+D:\Oswaldo\Proyectos\SisBicimoto\Codigo Actual\bicimotopucallpa\Bicimoto.WebApi\bin\ThoughtWorks.QRCode.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\SqlServerTypes\x64\msvcr120.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\SqlServerTypes\x86\msvcr120.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\roslyn\csc.exe
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\roslyn\vbc.exe
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\roslyn\VBCSCompiler.exe
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.WebApi.dll.config
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.WebApi.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.WebApi.pdb
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Antlr3.Runtime.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.Comun.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.Comun.Dto.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.Datos.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.Firmado.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.Servicio.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.Servicio.Soap.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.Xml.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\EntityFramework.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\EntityFramework.SqlServer.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.AI.Web.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.AI.WindowsServer.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.ApplicationInsights.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.WebApi.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Newtonsoft.Json.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\SistemaBici.exe
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Swashbuckle.Core.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\System.Net.Http.Formatting.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.Helpers.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.Http.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.Http.Owin.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.Http.WebHost.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.Mvc.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.Optimization.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.Razor.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.WebPages.Deployment.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.WebPages.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.WebPages.Razor.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\WebActivatorEx.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\WebGrease.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\SQLite.CodeFirst.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\DotNetZip.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.Web.Services3.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.Estructuras.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\TextBoxAutoexplicativo.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\tessnet2_32.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.VisualBasic.PowerPacks.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\CrystalDecisions.Windows.Forms.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\CrystalDecisions.Shared.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportSource.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\ThoughtWorks.QRCode.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.API.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Google.Protobuf.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\FlashControlV71.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\stdole.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\ShockwaveFlashObjects.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.Comun.Dto.pdb
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.Comun.pdb
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.Datos.pdb
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.Datos.dll.config
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.Firmado.pdb
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.Servicio.Soap.pdb
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.Servicio.Soap.dll.config
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.Servicio.pdb
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.Xml.pdb
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\SistemaBici.pdb
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\SistemaBici.exe.config
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.AI.Web.xml
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.AI.WindowsServer.xml
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.ApplicationInsights.xml
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.ServiceLocation.xml
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.xml
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.WebApi.xml
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Newtonsoft.Json.xml
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\System.Net.Http.Formatting.xml
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.Helpers.xml
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.Http.xml
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.Http.WebHost.xml
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.Mvc.xml
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.Optimization.xml
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.Razor.xml
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.WebPages.xml
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.WebPages.Deployment.xml
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.WebPages.Razor.xml
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Antlr3.Runtime.pdb
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\EntityFramework.xml
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\EntityFramework.SqlServer.xml
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\System.Web.Http.Owin.xml
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\DotNetZip.xml
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.Estructuras.pdb
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Microsoft.VisualBasic.PowerPacks.xml
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\Bicimoto.API.pdb
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\es\System.Web.Helpers.resources.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\es\System.Web.Http.resources.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\es\System.Web.Mvc.resources.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\es\System.Web.Optimization.resources.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\es\System.Web.Razor.resources.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\es\System.Web.WebPages.resources.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\es\EntityFramework.resources.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\es\EntityFramework.SqlServer.resources.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\es\System.Web.Http.Owin.resources.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.csprojAssemblyReference.cache
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.csproj.CoreCompileInputs.cache
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.csproj.CopyComplete
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.dll
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.pdb
+D:\Bicimoto Repositorio\SISTEMA BICIMOTO 2.1\bicimotopucallpa\Bicimoto.WebApi\bin\System.Collections.Immutable.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\SqlServerTypes\x64\msvcr120.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\SqlServerTypes\x86\msvcr120.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\roslyn\csc.exe
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\roslyn\vbc.exe
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\roslyn\VBCSCompiler.exe
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.WebApi.dll.config
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.WebApi.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.WebApi.pdb
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Antlr3.Runtime.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.Comun.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.Comun.Dto.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.Datos.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.Firmado.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.Servicio.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.Servicio.Soap.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.Xml.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\EntityFramework.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\EntityFramework.SqlServer.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.AI.Web.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.AI.WindowsServer.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.ApplicationInsights.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.WebApi.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Newtonsoft.Json.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\SistemaBici.exe
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Swashbuckle.Core.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Collections.Immutable.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Net.Http.Formatting.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.Helpers.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.Http.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.Http.Owin.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.Http.WebHost.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.Mvc.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.Optimization.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.Razor.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.WebPages.Deployment.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.WebPages.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.WebPages.Razor.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\WebActivatorEx.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\WebGrease.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\SQLite.CodeFirst.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\DotNetZip.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.Web.Services3.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.Estructuras.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\TextBoxAutoexplicativo.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\BarcodeLib.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\tessnet2_32.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.VisualBasic.PowerPacks.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.Windows.Forms.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.Shared.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportSource.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\ThoughtWorks.QRCode.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.API.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Google.Protobuf.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\FlashControlV71.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\stdole.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\ShockwaveFlashObjects.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.Comun.Dto.pdb
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.Comun.pdb
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.Datos.pdb
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.Datos.dll.config
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.Firmado.pdb
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.Servicio.Soap.pdb
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.Servicio.Soap.dll.config
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.Servicio.pdb
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.Xml.pdb
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\SistemaBici.pdb
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\SistemaBici.exe.config
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.AI.Web.xml
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.AI.WindowsServer.xml
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.ApplicationInsights.xml
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.ServiceLocation.xml
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.xml
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.WebApi.xml
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Newtonsoft.Json.xml
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Net.Http.Formatting.xml
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.Helpers.xml
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.Http.xml
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.Http.WebHost.xml
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.Mvc.xml
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.Optimization.xml
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.Razor.xml
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.WebPages.xml
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.WebPages.Deployment.xml
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.WebPages.Razor.xml
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Antlr3.Runtime.pdb
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\EntityFramework.xml
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\EntityFramework.SqlServer.xml
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.Http.Owin.xml
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\DotNetZip.xml
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.Estructuras.pdb
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.VisualBasic.PowerPacks.xml
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.API.pdb
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\es\System.Web.Helpers.resources.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\es\System.Web.Http.resources.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\es\System.Web.Mvc.resources.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\es\System.Web.Optimization.resources.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\es\System.Web.Razor.resources.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\es\System.Web.WebPages.resources.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\es\EntityFramework.resources.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\es\EntityFramework.SqlServer.resources.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\es\System.Web.Http.Owin.resources.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.csprojAssemblyReference.cache
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.csproj.CopyComplete
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.dll
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.pdb
+D:\Bicimoto Repositorio\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.csproj.CoreCompileInputs.cache
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\SqlServerTypes\x64\msvcr120.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\SqlServerTypes\x86\msvcr120.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\roslyn\csc.exe
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\roslyn\vbc.exe
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\roslyn\VBCSCompiler.exe
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.WebApi.dll.config
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.WebApi.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.WebApi.pdb
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Antlr3.Runtime.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.Comun.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.Comun.Dto.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.Datos.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.Firmado.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.Servicio.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.Servicio.Soap.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.Xml.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\EntityFramework.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\EntityFramework.SqlServer.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.AI.Web.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.AI.WindowsServer.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.ApplicationInsights.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.ServiceLocation.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.WebApi.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Newtonsoft.Json.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\SistemaBici.exe
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Swashbuckle.Core.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Collections.Immutable.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Net.Http.Formatting.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.Helpers.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.Http.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.Http.Owin.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.Http.WebHost.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.Mvc.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.Optimization.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.Razor.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.WebPages.Deployment.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.WebPages.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.WebPages.Razor.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\WebActivatorEx.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\WebGrease.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\SQLite.CodeFirst.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\DotNetZip.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.Web.Services3.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.Estructuras.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\TextBoxAutoexplicativo.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\BarcodeLib.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\tessnet2_32.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.VisualBasic.PowerPacks.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.Windows.Forms.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.Shared.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportSource.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\ThoughtWorks.QRCode.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.API.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Google.Protobuf.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\FlashControlV71.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\stdole.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\ShockwaveFlashObjects.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.Comun.Dto.pdb
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.Comun.pdb
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.Datos.pdb
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.Datos.dll.config
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.Firmado.pdb
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.Servicio.Soap.pdb
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.Servicio.Soap.dll.config
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.Servicio.pdb
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.Xml.pdb
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\SistemaBici.pdb
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\SistemaBici.exe.config
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.AI.Web.xml
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.AI.WindowsServer.xml
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.ApplicationInsights.xml
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.ServiceLocation.xml
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.xml
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.WebApi.xml
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Newtonsoft.Json.xml
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Net.Http.Formatting.xml
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.Helpers.xml
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.Http.xml
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.Http.WebHost.xml
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.Mvc.xml
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.Optimization.xml
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.Razor.xml
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.WebPages.xml
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.WebPages.Deployment.xml
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.WebPages.Razor.xml
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Antlr3.Runtime.pdb
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\EntityFramework.xml
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\EntityFramework.SqlServer.xml
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\System.Web.Http.Owin.xml
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\DotNetZip.xml
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.Estructuras.pdb
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Microsoft.VisualBasic.PowerPacks.xml
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\Bicimoto.API.pdb
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\es\System.Net.Http.Formatting.resources.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\es\System.Web.Helpers.resources.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\es\System.Web.Http.resources.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\es\System.Web.Http.WebHost.resources.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\es\System.Web.Mvc.resources.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\es\System.Web.Optimization.resources.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\es\System.Web.Razor.resources.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\es\System.Web.WebPages.resources.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\es\EntityFramework.resources.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\es\EntityFramework.SqlServer.resources.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\bin\es\System.Web.Http.Owin.resources.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.csproj.AssemblyReference.cache
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.csproj.CoreCompileInputs.cache
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.csproj.CopyComplete
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.dll
+D:\GITHUB\BICIMOTO PUCALLPA\SistemaBici_Pucallpa\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.pdb
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.csprojAssemblyReference.cache
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.csproj.CoreCompileInputs.cache
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.pdb
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\roslyn\csc.exe
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\roslyn\vbc.exe
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.WebApi.dll.config
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.WebApi.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.WebApi.pdb
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Antlr3.Runtime.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.Comun.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.Comun.Dto.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.Datos.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.Firmado.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.Servicio.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.Servicio.Soap.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.Xml.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\EntityFramework.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.AI.Web.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.WebApi.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Newtonsoft.Json.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\SistemaBici.exe
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Swashbuckle.Core.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Collections.Immutable.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.Helpers.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.Http.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.Http.Owin.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.Mvc.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.Optimization.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.Razor.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.WebPages.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\WebActivatorEx.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\WebGrease.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\SQLite.CodeFirst.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\DotNetZip.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.Web.Services3.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.Estructuras.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\TextBoxAutoexplicativo.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\BarcodeLib.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\tessnet2_32.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.VisualBasic.PowerPacks.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\CrystalDecisions.Windows.Forms.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\CrystalDecisions.Shared.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\CrystalDecisions.ReportSource.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\ThoughtWorks.QRCode.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.API.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.Comun.Dto.pdb
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.Comun.pdb
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.Datos.pdb
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.Datos.dll.config
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.Firmado.pdb
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.Servicio.Soap.pdb
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.Servicio.Soap.dll.config
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.Servicio.pdb
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.Xml.pdb
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\SistemaBici.pdb
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\SistemaBici.exe.config
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.AI.Web.xml
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.xml
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.WebApi.xml
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Newtonsoft.Json.xml
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.Helpers.xml
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.Http.xml
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.Mvc.xml
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.Optimization.xml
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.Razor.xml
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.WebPages.xml
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Antlr3.Runtime.pdb
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\EntityFramework.xml
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.Http.Owin.xml
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\DotNetZip.xml
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.Estructuras.pdb
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.API.pdb
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\es\System.Web.Helpers.resources.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\es\System.Web.Http.resources.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\es\System.Web.Mvc.resources.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\es\System.Web.Optimization.resources.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\es\System.Web.Razor.resources.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\es\System.Web.WebPages.resources.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\es\EntityFramework.resources.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\es\System.Web.Http.Owin.resources.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.csproj.CopyComplete
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\AxShockwaveFlashObjects.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\ShockwaveFlashObjects.dll
+C:\Sistema_Demo\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\stdole.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\SqlServerTypes\x64\msvcr120.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\SqlServerTypes\x86\msvcr120.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\roslyn\csc.exe
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\roslyn\vbc.exe
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.WebApi.dll.config
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.WebApi.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.WebApi.pdb
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Antlr3.Runtime.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.Comun.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.Comun.Dto.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.Datos.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.Firmado.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.Servicio.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.Servicio.Soap.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.Xml.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\EntityFramework.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\EntityFramework.SqlServer.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.AI.Web.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.Practices.ServiceLocation.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.WebApi.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Newtonsoft.Json.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\SistemaBici.exe
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Swashbuckle.Core.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Collections.Immutable.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Net.Http.Formatting.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.Helpers.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.Http.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.Http.Owin.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.Http.WebHost.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.Mvc.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.Optimization.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.Razor.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.WebPages.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\WebActivatorEx.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\WebGrease.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\SQLite.CodeFirst.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\DotNetZip.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.Web.Services3.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.Estructuras.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\TextBoxAutoexplicativo.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\BarcodeLib.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\tessnet2_32.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.VisualBasic.PowerPacks.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\CrystalDecisions.Windows.Forms.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\CrystalDecisions.Shared.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\CrystalDecisions.ReportSource.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\ThoughtWorks.QRCode.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.API.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\AxShockwaveFlashObjects.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\ShockwaveFlashObjects.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\stdole.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.Comun.Dto.pdb
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.Comun.pdb
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.Datos.pdb
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.Datos.dll.config
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.Firmado.pdb
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.Servicio.Soap.pdb
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.Servicio.Soap.dll.config
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.Servicio.pdb
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.Xml.pdb
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\SistemaBici.pdb
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\SistemaBici.exe.config
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.AI.Web.xml
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.ApplicationInsights.xml
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.Practices.ServiceLocation.xml
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.xml
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.WebApi.xml
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Newtonsoft.Json.xml
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Net.Http.Formatting.xml
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.Helpers.xml
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.Http.xml
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.Http.WebHost.xml
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.Mvc.xml
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.Optimization.xml
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.Razor.xml
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.WebPages.xml
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Antlr3.Runtime.pdb
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\EntityFramework.xml
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\EntityFramework.SqlServer.xml
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\System.Web.Http.Owin.xml
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\DotNetZip.xml
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.Estructuras.pdb
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\Bicimoto.API.pdb
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\es\System.Net.Http.Formatting.resources.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\es\System.Web.Helpers.resources.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\es\System.Web.Http.resources.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\es\System.Web.Http.WebHost.resources.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\es\System.Web.Mvc.resources.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\es\System.Web.Optimization.resources.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\es\System.Web.Razor.resources.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\es\System.Web.WebPages.resources.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\es\EntityFramework.resources.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\es\EntityFramework.SqlServer.resources.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\bin\es\System.Web.Http.Owin.resources.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.csprojAssemblyReference.cache
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.csproj.CoreCompileInputs.cache
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.csproj.CopyComplete
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.dll
+C:\WS_NET\Minimarket_Demo2.1\Minimarket_Demo2.1\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\roslyn\csc.exe
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\roslyn\vbc.exe
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.WebApi.dll.config
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.WebApi.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.WebApi.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Antlr3.Runtime.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.Comun.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.Comun.Dto.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.Datos.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.Firmado.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.Servicio.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.Servicio.Soap.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.Xml.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\EntityFramework.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.AI.Web.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.WebApi.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Newtonsoft.Json.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Swashbuckle.Core.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\System.Collections.Immutable.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.Helpers.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.Http.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.Http.Owin.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.Mvc.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.Optimization.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.Razor.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.WebPages.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\WebActivatorEx.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\WebGrease.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\SQLite.CodeFirst.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\DotNetZip.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.Web.Services3.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.Estructuras.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.Comun.Dto.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.Comun.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.Datos.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.Datos.dll.config
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.Firmado.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.Servicio.Soap.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.Servicio.Soap.dll.config
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.Servicio.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.Xml.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.AI.Web.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.WebApi.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Newtonsoft.Json.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.Helpers.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.Http.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.Mvc.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.Optimization.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.Razor.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.WebPages.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Antlr3.Runtime.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\EntityFramework.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.Http.Owin.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\DotNetZip.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.Estructuras.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\es\System.Web.Helpers.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\es\System.Web.Http.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\es\System.Web.Mvc.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\es\System.Web.Optimization.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\es\System.Web.Razor.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\es\System.Web.WebPages.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\es\EntityFramework.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\bin\es\System.Web.Http.Owin.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.csprojAssemblyReference.cache
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.csproj.CoreCompileInputs.cache
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.csproj.CopyComplete
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\roslyn\csc.exe
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\roslyn\vbc.exe
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.WebApi.dll.config
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.WebApi.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.WebApi.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Antlr3.Runtime.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.Comun.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.Comun.Dto.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.Datos.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.Firmado.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.Servicio.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.Servicio.Soap.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.Xml.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\EntityFramework.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.AI.Web.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.WebApi.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Newtonsoft.Json.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Swashbuckle.Core.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\System.Collections.Immutable.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.Helpers.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.Http.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.Http.Owin.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.Mvc.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.Optimization.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.Razor.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.WebPages.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\WebActivatorEx.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\WebGrease.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\SQLite.CodeFirst.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\DotNetZip.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.Web.Services3.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.Estructuras.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.Comun.Dto.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.Comun.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.Datos.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.Datos.dll.config
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.Firmado.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.Servicio.Soap.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.Servicio.Soap.dll.config
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.Servicio.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.Xml.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.AI.Web.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.WebApi.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Newtonsoft.Json.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.Helpers.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.Http.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.Mvc.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.Optimization.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.Razor.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.WebPages.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Antlr3.Runtime.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\EntityFramework.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\System.Web.Http.Owin.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\DotNetZip.xml
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\Bicimoto.Estructuras.pdb
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\es\System.Web.Helpers.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\es\System.Web.Http.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\es\System.Web.Mvc.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\es\System.Web.Optimization.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\es\System.Web.Razor.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\es\System.Web.WebPages.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\es\EntityFramework.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\bin\es\System.Web.Http.Owin.resources.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.csprojAssemblyReference.cache
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.csproj.CoreCompileInputs.cache
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.csproj.CopyComplete
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.dll
+C:\Proyectos\SistemaReboGitLab\rebo-minimarket\rebo-minimarket\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\roslyn\csc.exe
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\roslyn\vbc.exe
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Bicimoto.WebApi.dll.config
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Bicimoto.WebApi.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Bicimoto.WebApi.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Antlr3.Runtime.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Bicimoto.Comun.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Bicimoto.Comun.Dto.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Bicimoto.Datos.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Bicimoto.Firmado.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Bicimoto.Servicio.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Bicimoto.Servicio.Soap.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Bicimoto.Xml.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\EntityFramework.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Microsoft.AI.Web.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.WebApi.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Newtonsoft.Json.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Swashbuckle.Core.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\System.Collections.Immutable.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\System.Web.Helpers.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\System.Web.Http.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\System.Web.Http.Owin.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\System.Web.Mvc.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\System.Web.Optimization.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\System.Web.Razor.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\System.Web.WebPages.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\WebActivatorEx.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\WebGrease.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\SQLite.CodeFirst.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\DotNetZip.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Microsoft.Web.Services3.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Bicimoto.Estructuras.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Bicimoto.Comun.Dto.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Bicimoto.Comun.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Bicimoto.Datos.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Bicimoto.Datos.dll.config
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Bicimoto.Firmado.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Bicimoto.Servicio.Soap.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Bicimoto.Servicio.Soap.dll.config
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Bicimoto.Servicio.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Bicimoto.Xml.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Microsoft.AI.Web.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Microsoft.Practices.Unity.WebApi.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Newtonsoft.Json.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\System.Web.Helpers.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\System.Web.Http.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\System.Web.Mvc.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\System.Web.Optimization.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\System.Web.Razor.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\System.Web.WebPages.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Antlr3.Runtime.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\EntityFramework.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\System.Web.Http.Owin.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\DotNetZip.xml
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\Bicimoto.Estructuras.pdb
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\es\System.Web.Helpers.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\es\System.Web.Http.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\es\System.Web.Mvc.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\es\System.Web.Optimization.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\es\System.Web.Razor.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\es\System.Web.WebPages.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\es\EntityFramework.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\bin\es\System.Web.Http.Owin.resources.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.csprojAssemblyReference.cache
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.csproj.CoreCompileInputs.cache
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.csproj.CopyComplete
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.dll
+C:\Proyectos\SistemaReboGitLab\REBO EN DESARROLLO\app-market\Bicimoto.WebApi\obj\Debug\Bicimoto.WebApi.pdb
