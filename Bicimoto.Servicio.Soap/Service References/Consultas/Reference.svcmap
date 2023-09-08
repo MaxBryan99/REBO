@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="bda04403-d1de-4730-a496-e37acd383563" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="https://www.sunat.gob.pe/ol-it-wsconscpegem/billConsultService?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="billConsultService.wsdl" MetadataType="Wsdl" ID="dca2ab98-89c4-4ea0-883b-da83d5467aa3" SourceId="1" SourceUrl="https://www.sunat.gob.pe/ol-it-wsconscpegem/billConsultService?wsdl=1" />
+    <MetadataFile FileName="billConsultService1.wsdl" MetadataType="Wsdl" ID="424d33fa-1661-46f3-a976-b76602521311" SourceId="1" SourceUrl="https://www.sunat.gob.pe/ol-it-wsconscpegem/billConsultService?wsdl" />
+    <MetadataFile FileName="billConsultService.xsd" MetadataType="Schema" ID="ef23d814-ddf8-43b2-9963-ffc8d031eb9c" SourceId="1" SourceUrl="https://www.sunat.gob.pe/ol-it-wsconscpegem/billConsultService?xsd=1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

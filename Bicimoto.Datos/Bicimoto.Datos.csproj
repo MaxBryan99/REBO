@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{01C2727A-E731-42F8-92AF-269AC7B282D5}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Bicimoto.Datos</RootNamespace>
+    <AssemblyName>Bicimoto.Datos</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\Packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\Packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.9.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="SQLite.CodeFirst">
+      <HintPath>..\Packages\SQLite.CodeFirst.1.2.4.16\lib\net45\SQLite.CodeFirst.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite">
+      <HintPath>..\packages\System.Data.SQLite.Core.1.0.104.0\lib\net46\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BicimotoDb.cs" />
+    <Compile Include="BicimotoDbInitializer.cs" />
+    <Compile Include="Entidades\Anexo.cs" />
+    <Compile Include="Entidades\CabeceraDocumento.cs" />
+    <Compile Include="Entidades\CustomHistory.cs" />
+    <Compile Include="Entidades\DatoAdicional.cs" />
+    <Compile Include="Entidades\DireccionSunat.cs" />
+    <Compile Include="Entidades\DiscrepanciaDocumento.cs" />
+    <Compile Include="Entidades\DocumentoAnticipo.cs" />
+    <Compile Include="Entidades\DocumentoDetalle.cs" />
+    <Compile Include="Entidades\DocumentoRelacionado.cs" />
+    <Compile Include="Entidades\Empresa.cs" />
+    <Compile Include="Entidades\EntidadBase.cs" />
+    <Compile Include="Entidades\GuiaTransportista.cs" />
+    <Compile Include="Entidades\IEntity.cs" />
+    <Compile Include="Entidades\ModalidadTransporte.cs" />
+    <Compile Include="Entidades\Moneda.cs" />
+    <Compile Include="Entidades\ParametroConfiguracion.cs" />
+    <Compile Include="Entidades\ResumenDiario.cs" />
+    <Compile Include="Entidades\TipoDatoAdicional.cs" />
+    <Compile Include="Entidades\TipoDiscrepancia.cs" />
+    <Compile Include="Entidades\TipoDocumento.cs" />
+    <Compile Include="Entidades\TipoDocumentoAnticipo.cs" />
+    <Compile Include="Entidades\TipoDocumentoContribuyente.cs" />
+    <Compile Include="Entidades\TipoDocumentoRelacionado.cs" />
+    <Compile Include="Entidades\TipoImpuesto.cs" />
+    <Compile Include="Entidades\TipoOperacion.cs" />
+    <Compile Include="Entidades\TipoPrecio.cs" />
+    <Compile Include="Entidades\TipoValorBase.cs" />
+    <Compile Include="Entidades\Ubigeo.cs" />
+    <Compile Include="Entidades\UnidadMedida.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Data\DireccionesSunat.txt" />
+    <Content Include="Data\ModalidadTransportes.txt" />
+    <Content Include="Data\Monedas.txt" />
+    <Content Include="Data\TipoDatoAdicionales.txt" />
+    <Content Include="Data\TipoDiscrepancias.txt" />
+    <Content Include="Data\TipoDocumentoAnticipos.txt" />
+    <Content Include="Data\TipoDocumentoContribuyentes.txt" />
+    <Content Include="Data\TipoDocumentoRelacionados.txt" />
+    <Content Include="Data\TipoDocumentos.txt" />
+    <Content Include="Data\TipoImpuestos.txt" />
+    <Content Include="Data\TipoOperaciones.txt" />
+    <Content Include="Data\TipoPrecios.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

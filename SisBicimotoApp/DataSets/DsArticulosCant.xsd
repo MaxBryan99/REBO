@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DsArticulosCant" targetNamespace="http://tempuri.org/DsArticulosCant.xsd" xmlns:mstns="http://tempuri.org/DsArticulosCant.xsd" xmlns="http://tempuri.org/DsArticulosCant.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DsArticulosCant" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DsArticulosCant" msprop:Generator_UserDSName="DsArticulosCant">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DTArtVendido" msprop:Generator_TableClassName="DTArtVendidoDataTable" msprop:Generator_TableVarName="tableDTArtVendido" msprop:Generator_TablePropName="DTArtVendido" msprop:Generator_RowDeletingName="DTArtVendidoRowDeleting" msprop:Generator_RowChangingName="DTArtVendidoRowChanging" msprop:Generator_RowEvHandlerName="DTArtVendidoRowChangeEventHandler" msprop:Generator_RowDeletedName="DTArtVendidoRowDeleted" msprop:Generator_UserTableName="DTArtVendido" msprop:Generator_RowChangedName="DTArtVendidoRowChanged" msprop:Generator_RowEvArgName="DTArtVendidoRowChangeEvent" msprop:Generator_RowClassName="DTArtVendidoRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CodArt" msprop:Generator_ColumnVarNameInTable="columnCodArt" msprop:Generator_ColumnPropNameInRow="CodArt" msprop:Generator_ColumnPropNameInTable="CodArtColumn" msprop:Generator_UserColumnName="CodArt" type="xs:string" minOccurs="0" />
+              <xs:element name="Nombre" msprop:Generator_ColumnVarNameInTable="columnNombre" msprop:Generator_ColumnPropNameInRow="Nombre" msprop:Generator_ColumnPropNameInTable="NombreColumn" msprop:Generator_UserColumnName="Nombre" type="xs:string" minOccurs="0" />
+              <xs:element name="Fecha" msprop:Generator_ColumnVarNameInTable="columnFecha" msprop:Generator_ColumnPropNameInRow="Fecha" msprop:Generator_ColumnPropNameInTable="FechaColumn" msprop:Generator_UserColumnName="Fecha" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="TotalVendido" msprop:Generator_ColumnVarNameInTable="columnTotalVendido" msprop:Generator_ColumnPropNameInRow="TotalVendido" msprop:Generator_ColumnPropNameInTable="TotalVendidoColumn" msprop:Generator_UserColumnName="TotalVendido" type="xs:string" minOccurs="0" />
+              <xs:element name="Familia" msprop:Generator_ColumnVarNameInTable="columnFamilia" msprop:Generator_ColumnPropNameInRow="Familia" msprop:Generator_ColumnPropNameInTable="FamiliaColumn" msprop:Generator_UserColumnName="Familia" type="xs:string" minOccurs="0" />
+              <xs:element name="Linea" msprop:Generator_ColumnVarNameInTable="columnLinea" msprop:Generator_ColumnPropNameInRow="Linea" msprop:Generator_ColumnPropNameInTable="LineaColumn" msprop:Generator_UserColumnName="Linea" type="xs:string" minOccurs="0" />
+              <xs:element name="Turno" msprop:Generator_ColumnVarNameInTable="columnTurno" msprop:Generator_ColumnPropNameInRow="Turno" msprop:Generator_ColumnPropNameInTable="TurnoColumn" msprop:Generator_UserColumnName="Turno" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

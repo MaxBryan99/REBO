@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B10720B8-041E-4342-8B5C-A1BF6C01C357}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Bicimoto.Comun.Dto</RootNamespace>
+    <AssemblyName>Bicimoto.Comun.Dto</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.9.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.9.0.1\lib\net40\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Contratos\IDocumentoElectronico.cs" />
+    <Compile Include="Data\cini.cs" />
+    <Compile Include="Data\Cliente.cs" />
+    <Compile Include="Data\csql.cs" />
+    <Compile Include="Data\DetalleVenta.cs" />
+    <Compile Include="Data\Parametro.cs" />
+    <Compile Include="Data\Venta.cs" />
+    <Compile Include="Intercambio\ConsultaConstanciaRequest.cs" />
+    <Compile Include="Intercambio\ConsultaTicketRequest.cs" />
+    <Compile Include="Intercambio\DocumentoResponse.cs" />
+    <Compile Include="Intercambio\EnviarDocumentoRequest.cs" />
+    <Compile Include="Intercambio\EnviarDocumentoResponse.cs" />
+    <Compile Include="Intercambio\EnviarResumenResponse.cs" />
+    <Compile Include="Intercambio\EnvioDocumentoComun.cs" />
+    <Compile Include="Intercambio\FirmadoRequest.cs" />
+    <Compile Include="Intercambio\FirmadoResponse.cs" />
+    <Compile Include="Intercambio\RespuestaComun.cs" />
+    <Compile Include="Intercambio\RespuestaComunConArchivo.cs" />
+    <Compile Include="Interface\IVenta.cs" />
+    <Compile Include="Logica\VentaRemota.cs" />
+    <Compile Include="Modelos\ComunicacionBaja.cs" />
+    <Compile Include="Modelos\Contribuyente.cs" />
+    <Compile Include="Modelos\DatoAdicional.cs" />
+    <Compile Include="Modelos\DatosGuia.cs" />
+    <Compile Include="Modelos\DetalleDocumento.cs" />
+    <Compile Include="Modelos\DetalleGuia.cs" />
+    <Compile Include="Modelos\Direccion.cs" />
+    <Compile Include="Modelos\Discrepancia.cs" />
+    <Compile Include="Modelos\DocumentoBaja.cs" />
+    <Compile Include="Modelos\DocumentoElectronico.cs" />
+    <Compile Include="Modelos\DocumentoPercepcion.cs" />
+    <Compile Include="Modelos\DocumentoRelacionado.cs" />
+    <Compile Include="Modelos\DocumentoResumen.cs" />
+    <Compile Include="Modelos\DocumentoResumenDetalle.cs" />
+    <Compile Include="Modelos\DocumentoRetencion.cs" />
+    <Compile Include="Modelos\DocumentoSunatBase.cs" />
+    <Compile Include="Modelos\GrupoResumen.cs" />
+    <Compile Include="Modelos\GrupoResumenNuevo.cs" />
+    <Compile Include="Modelos\GuiaRemision.cs" />
+    <Compile Include="Modelos\ItemPercepcion.cs" />
+    <Compile Include="Modelos\ItemRetencion.cs" />
+    <Compile Include="Modelos\ItemSunatBase.cs" />
+    <Compile Include="Modelos\ResumenDiario.cs" />
+    <Compile Include="Modelos\ResumenDiarioNuevo.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Diagramas\Bajas.cd" />
+    <None Include="Diagramas\DocumentosElectronicos.cd" />
+    <None Include="Diagramas\GuiaRemision.cd" />
+    <None Include="Diagramas\Percepciones.cd" />
+    <None Include="Diagramas\ResumenesDiarios.cd" />
+    <None Include="Diagramas\Retenciones.cd" />
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

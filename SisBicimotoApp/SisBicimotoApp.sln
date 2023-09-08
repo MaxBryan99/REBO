@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SisBicimotoApp", "SisBicimotoApp\SisBicimotoApp.csproj", "{877556D7-CF90-4ADE-B8F4-495F1342812A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aplicativo", "Aplicativo", "{5920D2A5-9E35-489F-9143-4DADF413C39F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bicimoto.Datos", "BicimotoDatos\Bicimoto.Datos.csproj", "{367A8028-DDC9-42BD-92F5-A441A8F2E649}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BicimotoFirmado", "BicimotoFirmado", "{D101833F-6A25-4EA3-B83A-2EA7892BCF94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BicimotoFirmado", "BicimotoFirmado\BicimotoFirmado.csproj", "{9282BB0F-7F56-4B38-B3C8-ACB2BDCE435A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API REST", "API REST", "{07DF1B5E-22DA-4D3C-9871-43ABA1AF52AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bicimoto.WebApi", "Bicimoto.WebApi\Bicimoto.WebApi.csproj", "{419DB9E9-384C-466B-A664-BBD118C75629}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bicimoto.WebApi.Tests", "Bicimoto.WebApi.Tests\Bicimoto.WebApi.Tests.csproj", "{B00AA090-304D-4E93-8755-3EC14C515B15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{877556D7-CF90-4ADE-B8F4-495F1342812A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{877556D7-CF90-4ADE-B8F4-495F1342812A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{877556D7-CF90-4ADE-B8F4-495F1342812A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{877556D7-CF90-4ADE-B8F4-495F1342812A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{367A8028-DDC9-42BD-92F5-A441A8F2E649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{367A8028-DDC9-42BD-92F5-A441A8F2E649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{367A8028-DDC9-42BD-92F5-A441A8F2E649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{367A8028-DDC9-42BD-92F5-A441A8F2E649}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9282BB0F-7F56-4B38-B3C8-ACB2BDCE435A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9282BB0F-7F56-4B38-B3C8-ACB2BDCE435A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9282BB0F-7F56-4B38-B3C8-ACB2BDCE435A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9282BB0F-7F56-4B38-B3C8-ACB2BDCE435A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{419DB9E9-384C-466B-A664-BBD118C75629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{419DB9E9-384C-466B-A664-BBD118C75629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{419DB9E9-384C-466B-A664-BBD118C75629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{419DB9E9-384C-466B-A664-BBD118C75629}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B00AA090-304D-4E93-8755-3EC14C515B15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B00AA090-304D-4E93-8755-3EC14C515B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B00AA090-304D-4E93-8755-3EC14C515B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B00AA090-304D-4E93-8755-3EC14C515B15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{877556D7-CF90-4ADE-B8F4-495F1342812A} = {5920D2A5-9E35-489F-9143-4DADF413C39F}
+		{367A8028-DDC9-42BD-92F5-A441A8F2E649} = {5920D2A5-9E35-489F-9143-4DADF413C39F}
+		{9282BB0F-7F56-4B38-B3C8-ACB2BDCE435A} = {D101833F-6A25-4EA3-B83A-2EA7892BCF94}
+		{419DB9E9-384C-466B-A664-BBD118C75629} = {07DF1B5E-22DA-4D3C-9871-43ABA1AF52AF}
+		{B00AA090-304D-4E93-8755-3EC14C515B15} = {07DF1B5E-22DA-4D3C-9871-43ABA1AF52AF}
+	EndGlobalSection
+EndGlobal
