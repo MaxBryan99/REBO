@@ -25,7 +25,7 @@ pipeline {
             steps {
                 withSonarQubeEnv('SonarQube') {
                     bat """mvn clean verify sonar:sonar \
-                        -Dsonar.projectKey=maven-jenkins-pipeline \
+                        -Dsonar.projectKey=maven-jenkins-pipeline-Rebo \
                         -Dsonar.host.url=http://localhost:9000/"""
                 }
             }
